@@ -1,0 +1,25 @@
+{
+	"type": "unitFactory",
+	"name": "Hawk fighter factory",
+	"description": "Constructs fast interceptor sniper fighters.",
+	"unitType": "hawk",
+	"produceTime": 700,
+	"size": 2,
+	"maxSpawn": 3,
+	"consumes": {
+		"power": 0.7,
+		"items": {
+		"items": [
+            {"item": "titanium", "amount": 15.0},
+            {"item": "silicon", "amount": 15.0},        
+            ]
+		}
+  },
+	"requirements": [
+	    {"item": "lead", "amount": 50},
+		{"item": "titanium", "amount": 45},
+		{"item": "silicon", "amount" : 50},
+	],
+	"category": "units",
+	"research": "wraith-factory"
+}

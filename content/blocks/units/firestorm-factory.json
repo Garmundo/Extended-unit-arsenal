@@ -1,0 +1,27 @@
+{
+	"type": "unitFactory",
+	"name": "Firestorm cruiser factory",
+	"description": "Constructs cruiser-class firestorm incendiary battleships",
+	"unitType": "firestorm",
+	"produceTime": 2000,
+	"size": 4,
+	"maxSpawn": 3,
+	"consumes": {
+		"power": 3.2,
+		"items": {
+		"items": [
+            {"item": "titanium", "amount": 30.0},
+            {"item": "silicon", "amount": 30.0},        
+            {"item": "pyratite", "amount": 30.0}
+      ]
+		}
+  },
+	"requirements": [
+	    {"item": "lead", "amount": 150},
+		{"item": "titanium", "amount": 150},
+		{ "item": "plastanium", "amount": 40 },
+		{"item": "silicon", "amount" : 180},
+	],
+	"category": "units",
+	"research": "hephaestus-factory"
+}

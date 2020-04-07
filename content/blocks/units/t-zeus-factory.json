@@ -1,0 +1,28 @@
+{
+	"type": "unitFactory",
+	"name": "Zeus capital factory",
+	"description": "Constructs electric zeus capitals.",
+	"unitType": "zeus",
+	"produceTime": 7000,
+	"size": 7,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 60,
+		"items": {
+		"items": [
+            {"item": "titanium", "amount": 230.0},
+            {"item": "silicon", "amount": 230.0},
+            {"item": "plastanium", "amount": 230.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "titanium", "amount": 350}
+		{ "item": "plastanium", "amount": 320 },
+		{"item": "silicon", "amount" : 375}
+		{ "item": "thorium", "amount": 375 },
+		{ "item": "surge-alloy", "amount": 340}
+	],
+	"category": "units",
+	"research": "nebula-factory"
+}

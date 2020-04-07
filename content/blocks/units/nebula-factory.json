@@ -1,0 +1,26 @@
+{
+	"type": "unitFactory",
+	"name": "Nebula cruiser factory",
+	"description": "Constructs cruiser-class Nebula electric arc battleships",
+	"unitType": "nebula",
+	"produceTime": 2200,
+	"size": 4,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 3.6,
+		"items": {
+		"items": [
+            {"item": "titanium", "amount": 30.0},
+            {"item": "silicon", "amount": 40.0},        
+            {"item": "phase-fabric", "amount": 20.0}
+      ]
+		}
+  },
+	"requirements": [
+	    {"item": "lead", "amount": 160},
+		{"item": "titanium", "amount": 160},
+		{ "item": "plastanium", "amount": 70 },
+		{"item": "silicon", "amount" : 190}	],
+	"category": "units",
+	"research": "kugelblitz-factory"
+}

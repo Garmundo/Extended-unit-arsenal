@@ -1,0 +1,25 @@
+{
+	"type": "unitFactory",
+	"name": "Tarflyer fighter factory",
+	"description": "Constructs interceptor unit which spray flammable oil unto bases and enemies.",
+	"unitType": "tarflyer",
+	"produceTime": 650,
+	"size": 2,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 0.6,
+		"items": {
+		"items": [
+            {"item": "titanium", "amount": 10.0},
+            {"item": "silicon", "amount": 12.0},        
+            ]
+		}
+  },
+	"requirements": [
+	    {"item": "lead", "amount": 40},
+		{"item": "titanium", "amount": 30},
+		{"item": "silicon", "amount" : 45},
+	],
+	"category": "units",
+	"research": "aquarius-factory"
+}

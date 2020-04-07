@@ -1,0 +1,26 @@
+{
+	"type": "unitFactory",
+	"name": "Aquarius cruiser factory",
+	"description": "Constructs cruiser-class glacier frost battleships",
+	"unitType": "glacier",
+	"produceTime": 2000,
+	"size": 4,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 3.2,
+		"items": {
+		"items": [
+            {"item": "titanium", "amount": 50.0},
+            {"item": "silicon", "amount": 50.0},        
+      ]
+		}
+  },
+	"requirements": [
+	    {"item": "lead", "amount": 160},
+		{"item": "titanium", "amount": 160},
+		{ "item": "plastanium", "amount": 60 },
+		{"item": "silicon", "amount" : 200},
+	],
+	"category": "units",
+	"research": "aquarius-factory"
+}

@@ -1,0 +1,30 @@
+{
+	"type": "unitFactory",
+	"name": "Reaper capital factory",
+	"description": "Constructs capital-class Reaper battleships.",
+	"unitType": "reaper",
+	"produceTime": 8000,
+	"size": 7,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 50,
+		"items": {
+		"items": [
+         
+            {"item": "silicon", "amount": 300.0},                
+            {"item": "titanium", "amount": 275.0},
+            {"item": "plastanium", "amount": 275.0},
+       
+          ]
+		}
+  },
+	"requirements": [	
+		{ "item": "titanium", "amount": 450},
+		{ "item": "silicon", "amount": 475},
+		{ "item": "thorium", "amount": 400},
+		{ "item": "surge-alloy", "amount": 270},
+		{ "item": "plastanium", "amount": 375},
+	],
+	"category": "units",
+	"research": "lich-factory"
+}

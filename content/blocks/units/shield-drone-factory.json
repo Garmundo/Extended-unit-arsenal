@@ -1,0 +1,25 @@
+{
+	"type": "unitFactory",
+	"name": "shield drone factory",
+	"description": "Constructs fast defensive  drones which protect the player.",
+	"unitType": "shield-drone",
+	"produceTime": 50,
+	"size": 2,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 3,
+		"items": {
+		"items": [
+            {"item": "plastanium", "amount": 10.0},
+            {"item": "silicon", "amount": 10.0},        
+            ]
+		}
+  },
+	"requirements": [
+		{"item": "plastanium", "amount": 100}
+		{"item": "titanium","amount": 250},
+		{"item": "silicon", "amount" : 200},
+	],
+	"category": "units",
+	"research": "spirit-factory"
+}
