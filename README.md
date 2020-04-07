@@ -8,4 +8,7 @@ resemble the vanilla art style making this mod a simple extension of
 the unit arsenal without breaking the original vanilla experience.
 
 
-(reminder to unzip and use the zip-file inside the one you downloaded)
+(if you want to play around with the units in sandbox
+I recommend downloading infinitodustry and using the 
+overjector because capital ship production time
+is SLOW)
