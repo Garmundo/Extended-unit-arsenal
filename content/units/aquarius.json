@@ -1,0 +1,41 @@
+{
+	"type": "FlyingUnit",
+	"name": "Cryo Flyer ",
+	"description": "Fighter flyer equipped with freeze cannons.",
+   "drag": 0.01,
+	"speed": 0.3,
+	"mass": 10,
+	"hitsize": 15,
+	"health": 100,
+  "flying": true,
+	"rotateWeapon": true,
+	"engineOffset": 7,
+	"engineSize": 2,
+	"rotatespeed": 0.3,
+	"baseRotateSpeed": 0.3,
+	"shootCone": 360,
+	"weapon": {
+		"name": "water-sprayer",
+		"length": 1,
+		"width": 2,
+		"reload": 100,
+    "shots": 10,
+    "shootcone": 360,
+    "shotDelay": 2,
+		"alternate": false,
+    "velocityRnd": 0.4,
+    "spacing": 0.5,
+    "shootSound": "artillery",
+		"bullet": {
+		 "type": "LiquidBulletType",
+      "liquid" : "cryofluid",
+      "lifetime" : 120,
+      "statusDuration" : 600,
+      "drag" : 0.01,
+      "speed" : 1,
+      "shootSound": "laserbig",
+  
+}		 
+
+	}
+}
