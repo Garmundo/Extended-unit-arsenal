@@ -4,10 +4,10 @@
 	"type": "UnitFactory",
 	"unitType": "promethean",
 	"size": 8,
-	"produceTime": 13000,
+	"produceTime": 17000,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 200,
+		"power": 250,
 		"items": {
 		"items": [
             {"item": "thorium", "amount": 750.0},
