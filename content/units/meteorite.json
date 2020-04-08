@@ -19,7 +19,7 @@
 		"name": "meteorite-nuke",
 		"length": 4,
 		"width": 14,
-		"reload": 650,
+		"reload": 700,
     "shots": 1,
     "shootcone": 120,
     "shotDelay": 1,
