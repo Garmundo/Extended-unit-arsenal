@@ -4,10 +4,10 @@
 	"type": "UnitFactory",
 	"unitType": "the-rapture",
 	"size": 8,
-	"produceTime": 14000,
+	"produceTime": 19000,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 230
+		"power": 275
 		"items": {
 		"items": [
             {"item": "thorium", "amount": 800.0},
