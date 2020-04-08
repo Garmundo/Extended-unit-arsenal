@@ -9,6 +9,7 @@ the unit arsenal without breaking the original vanilla experience.
 
 
 (if you want to play around with the units in sandbox
-I recommend downloading infinitodustry and using the 
+I recommend increasing unit production
+speed in custom settings or downloading infinitodustry and using the 
 overjector because capital ship production time
 is SLOW)
