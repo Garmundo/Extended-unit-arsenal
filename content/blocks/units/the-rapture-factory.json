@@ -7,7 +7,7 @@
 	"produceTime": 19000,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 275
+		"power": 365
 		"items": {
 		"items": [
             {"item": "thorium", "amount": 800.0},
