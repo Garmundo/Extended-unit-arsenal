@@ -7,7 +7,7 @@
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 60,
+		"power": 80,
 		"items": {
 		"items": [
             {"item": "titanium", "amount": 350.0},
