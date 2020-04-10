@@ -3,7 +3,7 @@
 	"name": "Eradicator factory",
 	"description": "Constructs captial-class Lich battleships.",
 	"unitType": "lich",
-	"produceTime": 100,
+	"produceTime": 6800,
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
