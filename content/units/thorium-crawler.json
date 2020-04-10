@@ -1,7 +1,7 @@
 {
 	"type": "groundUnit",
 	"name": "Thorium Crawler",
-	"description": "Large crawlers with mounted thorium reactors. Explodes violently near foreign structures. Affects all units, Including its own team.",
+	"description": "Large crawlers with mounted thorium reactors. ly near foreign structures.",
 	"maxVelocity": 0.4,
 	"speed": 0.12,
 	"drag": 0.4,
