@@ -7,7 +7,7 @@
 	"drag": 0.4,
 	"mass": 10,
 	"hitsize": 25,
-	"shootcone": 360,
+	"shootCone": 360,
 	"rotatespeed": 0.04,
 	"health": 1500,
 	"weapon": {
