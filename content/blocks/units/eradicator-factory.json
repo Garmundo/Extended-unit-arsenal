@@ -21,7 +21,7 @@
 		{ "item": "plastanium", "amount": 350},
 		{"item": "silicon", "amount" : 450}
 		{ "item": "thorium", "amount": 450 },
-		{ "item": "surge-alloy", "amount": 275}
+		{ "item": "surge-alloy", "amount": 325}
 	],
 	"category": "units",
 	"research": "chaosArray-factory"
