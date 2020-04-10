@@ -3,7 +3,7 @@
 	"name": "Thorium Crawler factory",
 	"description": "Constructs highly volatile thorium-reactor crawlers.",
 	"unitType": "thorium-crawler",
-	"produceTime": 100,
+	"produceTime": 2800,
 	"size": 5,
 	"maxSpawn": 1,
 	"consumes": {
