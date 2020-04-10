@@ -2,7 +2,7 @@
 	"type": "unitFactory",
 	"name": "Eradicator factory",
 	"description": "Constructs eradicators.",
-	"unitType": "lich",
+	"unitType": "eradicator",
 	"produceTime": 6800,
 	"size": 7,
 	"maxSpawn": 1,
