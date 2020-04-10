@@ -1,7 +1,7 @@
 {
 	"type": "groundUnit",
 	"name": "Thorium Crawler",
-	"description": "Large crawlers with mounted thorium reactors. ly near foreign structures.",
+	"description": "Large crawlers with mounted thorium reactors. Explodes violently near foreign structures.",
 	"maxVelocity": 0.4,
 	"speed": 0.12,
 	"drag": 0.4,
@@ -25,7 +25,7 @@
              "killShooter": true,
              "speed": 1.5,
              "splashDamageRadius": 120,
-             "splashDamage": 2400
+             "splashDamage": 1800
 		}
 	}
 }
