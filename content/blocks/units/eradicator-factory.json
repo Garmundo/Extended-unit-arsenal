@@ -1,0 +1,28 @@
+{
+	"type": "unitFactory",
+	"name": "Eradicator factory",
+	"description": "Constructs captial-class Lich battleships.",
+	"unitType": "lich",
+	"produceTime": 100,
+	"size": 7,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 70,
+		"items": {
+		"items": [
+            {"item": "graphite", "amount": 275.0},
+            {"item": "silicon", "amount": 300.0},
+            {"item": "surge-alloy", "amount": 250.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "lead", "amount": 425}
+		{ "item": "plastanium", "amount": 350},
+		{"item": "silicon", "amount" : 450}
+		{ "item": "thorium", "amount": 450 },
+		{ "item": "surge-alloy", "amount": 275}
+	],
+	"category": "units",
+	"research": "chaosArray-factory"
+}

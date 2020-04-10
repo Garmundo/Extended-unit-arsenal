@@ -1,0 +1,25 @@
+{
+	"type": "unitFactory",
+	"name": "Eruptor factory",
+	"description": "Constructs eruptors.",
+	"unitType": "eruptor",
+	"produceTime": 100,
+	"size": 3,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 3,
+		"items": {
+		"items": [
+            {"item": "graphite", "amount": 15.0},
+            {"item": "silicon", "amount": 20.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "lead", "amount": 140}
+		{"item": "silicon", "amount" : 120}
+		{ "item": "thorium", "amount": 80},
+	],
+	"category": "units",
+	"research": "fortress-factory"
+}

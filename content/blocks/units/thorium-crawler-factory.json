@@ -1,0 +1,27 @@
+{
+	"type": "unitFactory",
+	"name": "Thorium Crawler factory",
+	"description": "Constructs highly volatile thorium-reactor crawlers.",
+	"unitType": "thorium-crawler",
+	"produceTime": 100,
+	"size": 5,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 18,
+		"items": {
+		"items": [
+            {"item": "graphite", "amount": 80.0},
+            {"item": "silicon", "amount": 80.0},
+            {"item": "thorium", "amount": 100.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "lead", "amount": 130}
+		{"item": "silicon", "amount" : 140}
+		{ "item": "thorium", "amount": 150 },
+		{ "item": "surge-alloy", "amount": 75}
+	],
+	"category": "units",
+	"research": "eruptor-factory"
+}
