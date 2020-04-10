@@ -1,7 +1,7 @@
 {
 	"type": "unitFactory",
 	"name": "Lich capital factory",
-	"description": "Constructs captial-class Lich battleships.",
+	"description": "Constructs capital-class Lich battleships.",
 	"unitType": "lich",
 	"produceTime": 6000,
 	"size": 7,
