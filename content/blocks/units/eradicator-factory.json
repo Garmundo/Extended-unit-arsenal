@@ -1,7 +1,7 @@
 {
 	"type": "unitFactory",
 	"name": "Eradicator factory",
-	"description": "Constructs captial-class Lich battleships.",
+	"description": "Constructs eradicators.",
 	"unitType": "lich",
 	"produceTime": 6800,
 	"size": 7,
