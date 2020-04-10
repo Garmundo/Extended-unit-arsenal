@@ -3,7 +3,7 @@
 	"name": "Chaos Array factory",
 	"description": "Constructs Chaos arrays.",
 	"unitType": "chaos-array",
-	"produceTime": 3200,
+	"produceTime": 3000,
 	"size": 5,
 	"maxSpawn": 2,
 	"consumes": {
