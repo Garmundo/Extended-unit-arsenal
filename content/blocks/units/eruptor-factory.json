@@ -18,7 +18,7 @@
 	"requirements": [
 		{"item": "lead", "amount": 140}
 		{"item": "silicon", "amount" : 120}
-		{ "item": "thorium", "amount": 80},
+		{ "item": "thorium", "amount": 60},
 	],
 	"category": "units",
 	"research": "fortress-factory"
