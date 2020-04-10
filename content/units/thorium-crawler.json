@@ -8,7 +8,7 @@
 	"mass": 10,
 	"hitsize": 25,
 	"rotatespeed": 0.04,
-	"health": 2400,
+	"health": 1800,
 	"weapon": {
 		"name": "nothing",
 		"length": 13,
