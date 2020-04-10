@@ -3,23 +3,23 @@
 	"name": "Chaos Array factory",
 	"description": "Constructs Chaos arrays.",
 	"unitType": "chaos-array",
-	"produceTime": 100,
+	"produceTime": 1200,
 	"size": 5,
 	"maxSpawn": 2,
 	"consumes": {
 		"power": 24,
 		"items": {
 		"items": [
-            {"item": "graphite", "amount": 160.0},
-            {"item": "silicon", "amount": 170.0},
+            {"item": "graphite", "amount": 150.0},
+            {"item": "silicon", "amount": 150.0},
             {"item": "plastanium", "amount": 130.0},
       ]
 		}
   },
 	"requirements": [
-		{"item": "lead", "amount": 275}
-		{ "item": "plastanium", "amount": 240},
-		{"item": "silicon", "amount" : 275}
+		{"item": "lead", "amount": 250}
+		{ "item": "plastanium", "amount": 230},
+		{"item": "silicon", "amount" : 255}
 		{ "item": "thorium", "amount": 225 },
 		{ "item": "surge-alloy", "amount": 175}
 	],
