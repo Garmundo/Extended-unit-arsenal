@@ -1,0 +1,28 @@
+{
+	"type": "unitFactory",
+	"name": "Tremor factory",
+	"description": "Constructs heavy tremor bombardment mechs.",
+	"unitType": "tremor",
+	"produceTime": 3400,
+	"size": 5,
+	"maxSpawn": 2,
+	"consumes": {
+		"power": 34,
+		"items": {
+		"items": [
+            {"item": "graphite", "amount": 160.0},
+            {"item": "silicon", "amount": 170.0},
+            {"item": "plastanium", "amount": 150.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "lead", "amount": 275}
+		{ "item": "plastanium", "amount": 250},
+		{"item": "silicon", "amount" : 280}
+		{ "item": "thorium", "amount": 270},
+		{ "item": "surge-alloy", "amount": 200}
+	],
+	"category": "units",
+	"research": "eruptor-factory"
+}
