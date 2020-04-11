@@ -6,7 +6,7 @@
 	"speed": 0.2,
 	"drag": 0.4,
 	"mass": 10,
-	"hitsize": 25,
+	"hitsize": ,
 	"rotatespeed": 0.04,
 	"health": 5000,
 	"weapon": {
