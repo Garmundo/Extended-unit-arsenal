@@ -10,9 +10,9 @@
 		"power": 28,
 		"items": {
 		"items": [
-            {"item": "graphite", "amount": 150.0},
-            {"item": "silicon", "amount": 160.0},
-            {"item": "plastanium", "amount": 130.0},
+            {"item": "graphite", "amount": 170.0},
+            {"item": "silicon", "amount": 170.0},
+            {"item": "plastanium", "amount": 160.0},
       ]
 		}
   },
