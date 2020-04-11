@@ -5,13 +5,13 @@
 	"unitType": "hawk",
 	"produceTime": 700,
 	"size": 2,
-	"maxSpawn": 3,
+	"maxSpawn": 4,
 	"consumes": {
 		"power": 0.7,
 		"items": {
 		"items": [
             {"item": "titanium", "amount": 15.0},
-            {"item": "silicon", "amount": 15.0},        
+            {"item": "silicon", "amount": 7.0},        
             ]
 		}
   },
