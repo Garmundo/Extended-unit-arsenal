@@ -24,7 +24,7 @@
              "instantDisappear": true,
              "killShooter": true,
              "speed": 1.5,
-             "splashDamageRadius": 120,
+             "splashDamageRadius": 100,
              "splashDamage": 1800
 		}
 	}
