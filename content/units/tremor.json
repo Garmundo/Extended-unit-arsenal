@@ -12,11 +12,10 @@
 	"weapon": {
 		"name": "tremor-blaster",
 		"length": 13,
-		"range": 100,
 		"recoil": 5,
 		"width": 0.1,
-		"reload": 70,
-		"alternate": true,
+		"reload": 80,
+		"alternate": false,
 		"shootSound": "shootBig",
 		"bullet":{
 		     "bulletWidth": 20,
