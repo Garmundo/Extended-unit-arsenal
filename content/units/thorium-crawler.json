@@ -2,7 +2,7 @@
 	"type": "groundUnit",
 	"name": "Thorium Crawler",
 	"description": "Large crawlers with mounted thorium reactors. Explodes violently near foreign structures.",
-	"maxVelocity": 0.4,
+	"maxVelocity": 0.2,
 	"speed": 0.12,
 	"drag": 0.4,
 	"mass": 10,
