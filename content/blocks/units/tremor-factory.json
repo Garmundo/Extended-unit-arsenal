@@ -17,9 +17,9 @@
 		}
   },
 	"requirements": [
-		{"item": "lead", "amount": 250}
+		{"item": "lead", "amount": 250},
 		{ "item": "plastanium", "amount": 250},
-		{"item": "silicon", "amount" : 270}
+		{"item": "silicon", "amount" : 270},
 		{ "item": "thorium", "amount": 270},
 		{ "item": "surge-alloy", "amount": 170}
 	],
