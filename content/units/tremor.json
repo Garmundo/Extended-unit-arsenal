@@ -1,0 +1,101 @@
+{
+	"type": "groundUnit",
+	"name": "Tremor",
+	"description": "Highly durable land unit which launches lingering explosive shells.",
+	"maxVelocity": 0.23,
+	"speed": 0.18,
+	"drag": 0.4,
+	"mass": 10,
+	"hitsize": 25,
+	"rotatespeed": 0.04,
+	"health": 5000,
+	"weapon": {
+		"name": "tremor-blaster",
+		"length": 13,
+		"range": 100,
+		"recoil": 5,
+		"width": 0.1,
+		"reload": 70,
+		"alternate": true,
+		"shootSound": "shootBig",
+		"bullet":{
+		     "bulletWidth": 20,
+		     "bulletHeight": 20,
+             "type": "BasicBulletType",
+             "lifetime": 40,
+             "damage": 20,
+             "speed": 3,
+             "splashDamageRadius": 20,
+             "splashDamage": 20,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             "fragBullets": 1,
+             "fragBullet":{
+              "type": "BasicBulletType",
+             "lifetime": 10,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 10,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             "fragBullets": 1,
+             "fragBullet":{
+                      "type": "BasicBulletType",
+             "lifetime": 10,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 10,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+                   "fragBullets": 1,
+             "fragBullet":{
+              " type": "BasicBulletType",
+             "lifetime": 10,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 5,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             "fragBullets": 1,
+             "fragBullet":{
+                      "type": "BasicBulletType",
+             "lifetime": 10,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 5,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion",
+               "fragBullets": 1,
+             "fragBullet":{
+               "type": "BasicBulletType",
+             "lifetime": 10,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 5,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             "fragBullets": 1,
+             "fragBullet":{
+                      "type": "BasicBulletType",
+             "lifetime": 10,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 5,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             }
+             }
+             }
+             }
+                  }         
+                }
+		}
+	
+	}
+}
