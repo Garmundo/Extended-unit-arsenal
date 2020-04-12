@@ -3,7 +3,7 @@
 	"name": "shield drone factory",
 	"description": "Constructs fast defensive  drones which protect the player.",
 	"unitType": "shield-drone",
-	"produceTime": 50,
+	"produceTime": 200,
 	"size": 2,
 	"maxSpawn": 4,
 	"consumes": {
