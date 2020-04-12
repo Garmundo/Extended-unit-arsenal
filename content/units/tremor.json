@@ -87,7 +87,9 @@
              "splashDamageRadius": 20,
              "splashDamage": 5,
              "hitEffect": "blastExplosion",
-             "despawnEffect": "blastExplosion", 
+             "despawnEffect": "blastExplosion",
+             }
+		     
              }
              }
              }
