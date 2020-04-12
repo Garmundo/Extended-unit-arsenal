@@ -7,6 +7,8 @@ mindustry. All require the vanilla resources and have sprites which
 resemble the vanilla art style making this mod a simple extension of 
 the unit arsenal without breaking the original vanilla experience.
 
+2 new heavy land units.
+
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
 speed in custom settings or downloading infinitodustry and using the 
