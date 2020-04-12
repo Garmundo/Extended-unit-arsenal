@@ -30,7 +30,7 @@
 		  "type": "BasicBulletType",
       "bulletWidth": 8,
       "speed": 9,
-      "damage": 8,
+      "damage": 10,
       "bulletHeight": 16,
       "bulletShrink": 0,
        "inaccuracy": 7,
