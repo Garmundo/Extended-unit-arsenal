@@ -37,7 +37,7 @@
       "homingRange": 120,
       "keepVelocity": false,
       "splashDamageRadius": 201,
-      "splashDamage": ,
+      "splashDamage": 12,
       "lifetime": 100,
       "trailColor": "ddeeff",
       "backColor": "ddddff",
