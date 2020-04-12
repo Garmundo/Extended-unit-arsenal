@@ -41,7 +41,7 @@
              "fragBullets": 1,
              "fragBullet":{
                       "type": "BasicBulletType",
-             "lifetime": 10,
+             "lifetime": 7,
              "damage": 20,
              "speed": 1.5,
              "splashDamageRadius": 20,
@@ -51,7 +51,7 @@
                    "fragBullets": 1,
              "fragBullet":{
               " type": "BasicBulletType",
-             "lifetime": 10,
+             "lifetime": 5,
              "damage": 20,
              "speed": 1.5,
              "splashDamageRadius": 20,
@@ -61,17 +61,17 @@
              "fragBullets": 1,
              "fragBullet":{
                       "type": "BasicBulletType",
-             "lifetime": 10,
+             "lifetime": 5,
              "damage": 20,
              "speed": 1.5,
              "splashDamageRadius": 20,
-             "splashDamage": 10,
+             "splashDamage": 5,
              "hitEffect": "blastExplosion",
              "despawnEffect": "blastExplosion",
                "fragBullets": 1,
              "fragBullet":{
                "type": "BasicBulletType",
-             "lifetime": 10,
+             "lifetime": 5,
              "damage": 20,
              "speed": 1.5,
              "splashDamageRadius": 20,
@@ -81,7 +81,7 @@
              "fragBullets": 1,
              "fragBullet":{
                       "type": "BasicBulletType",
-             "lifetime": 10,
+             "lifetime": 1,
              "damage": 20,
              "speed": 1.5,
              "splashDamageRadius": 20,
