@@ -21,7 +21,7 @@
 		     "bulletWidth": 20,
 		     "bulletHeight": 20,
              "type": "BasicBulletType",
-             "lifetime": 60,
+             "lifetime": 45,
              "damage": 40,
              "speed": 4,
              "splashDamageRadius": 20,
