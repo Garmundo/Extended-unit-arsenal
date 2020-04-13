@@ -1,5 +1,7 @@
 # Extended-unit-arsenal
 
+(Status: UPDATING)
+
 8 new "cruiser-class" units (revenant variant)
 2 new "capitals" (along with lich and reaper factories)
 and 2 powerful "mothership" class destroyers are added into 
