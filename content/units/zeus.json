@@ -43,8 +43,9 @@
       "trailColor": "4466dd",
       "backColor": "44b3e0",
       "frontColor": "448ff3",
-      "hitEffect": "blastExplosion",
-      "despawnEffect": "blastExplosion",
+      "shootEffect": "lancerLaserShoot",
+      "hitEffect": "shockwave",
+      "despawnEffect": "shockwave",
       "fragBullets": 8,
       "fragBullet": "lightning"
       }

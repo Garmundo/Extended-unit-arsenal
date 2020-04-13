@@ -40,8 +40,9 @@
       "splashDamageRadius": 25,
       "splashDamage": 0.1,
      "frontColor": "88eeee",
-    "hitEffect": "blastExplosion",
-     "despawnEffect": "blastExplosion",   
+     "shootEffect": "lightningShoot",
+    "hitEffect": "hitLancer",
+     "despawnEffect": "hitLancer",   
       "shootSound": "laserbig",
 }
 	}

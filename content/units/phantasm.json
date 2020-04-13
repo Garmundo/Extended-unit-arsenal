@@ -31,7 +31,7 @@
       "bulletWidth": 8,
       "speed": 7,
       "drag": -1,
-      "damage": 5,
+      "damage": 10,
       "bulletHeight": 14,
       "bulletShrink": 0,
        "inaccuracy": 12,

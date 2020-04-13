@@ -37,6 +37,7 @@
        "status": "melting",
        "statusDuration": 1700,
       "lifetime": 100,
+      "shootEffect": "hitMeltdown",
       "splashDamageRadius": 25,
       "splashDamage": 0.3,
       "incendAmount": 5,
@@ -44,8 +45,8 @@
       "incendChance": 50,
      "backColor": "ffffcc",
      "frontColor": "ffee99",
-    "hitEffect": "blastExplosion",
-     "despawnEffect": "blastExplosion",   
+    "hitEffect": "hitMeltdown",
+     "despawnEffect": "hitMeltdown",   
       "shootSound": "laserbig",
 }
 	}

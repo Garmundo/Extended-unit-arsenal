@@ -4,7 +4,7 @@
 	"description": "Large crawlers with mounted thorium reactors. Explodes violently near foreign structures.",
 	"maxVelocity": 0.2,
 	"speed": 0.12,
-	"drag": 0.4,
+	"drag": 0.05,
 	"mass": 10,
 	"hitsize": 25,
 	"shootCone": 360,
@@ -25,7 +25,9 @@
              "killShooter": true,
              "speed": 1.5,
              "splashDamageRadius": 100,
-             "splashDamage": 1800
+             "splashDamage": 1800,
+             "hitEffect": "commandSend",
+             "despawnEffect": "commandSend"   
 		}
 	}
 }

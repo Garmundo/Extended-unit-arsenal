@@ -37,8 +37,9 @@
       "lifetime": 1200,
       "backColor": "ffffff",
       "frontColor": "ffeedd",
-      "hitEffect": "blastExplosion",
-      "despawnEffect": "blastExplosion", 
+      "shootEffect": "flakExplosion",
+      "hitEffect": "generatespark",
+      "despawnEffect": "generatespark", 
       "shootSound": "laserbig",
       }
 	}

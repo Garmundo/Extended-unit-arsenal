@@ -42,8 +42,8 @@
       "trailColor": "ddeeff",
       "backColor": "ddddff",
       "frontColor": "ddefff",
-      "hitEffect": "blastExplosion",
-      "despawnEffect": "blastExplosion",
+      "hitEffect": "bigShockwave",
+      "despawnEffect": "bigShockwave",
       "weaveScale": 6,
       "weaveMag": 1
       }

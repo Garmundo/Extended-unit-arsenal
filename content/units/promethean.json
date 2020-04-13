@@ -42,6 +42,7 @@
       "trailColor": "ff6600",
       "backColor": "ff9340",
       "frontColor": "fc6f03",
+      "shootEffect": "blastsmoke",
       "hitEffect": "blastExplosion",
       "despawnEffect": "blastExplosion",
       "weaveScale": 6,

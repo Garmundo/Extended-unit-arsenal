@@ -43,8 +43,9 @@
       "trailColor": "ff66dd",
       "backColor": "ffb3e0",
       "frontColor": "fe8ff3",
-      "hitEffect": "blastExplosion",
-      "despawnEffect": "blastExplosion",
+      "shootEffect": "plasticExplosion",
+      "hitEffect": "commandSend",
+      "despawnEffect": "commandSend",
       "weaveScale": 10,
       "weaveMag": 1
       }
