@@ -15,4 +15,4 @@ speed in custom settings or downloading infinitodustry and using the
 overjector because capital ship production time
 is SLOW)
 
-Notice: updating (adding land units)
+
