@@ -3,11 +3,11 @@
 	"name": "Tremor factory",
 	"description": "Constructs heavy tremor bombardment mechs.",
 	"unitType": "tremor",
-	"produceTime": 3000,
+	"produceTime": 3500,
 	"size": 5,
 	"maxSpawn": 2,
 	"consumes": {
-		"power": 28,
+		"power": 18,
 		"items": {
 		"items": [
             {"item": "graphite", "amount": 170.0},

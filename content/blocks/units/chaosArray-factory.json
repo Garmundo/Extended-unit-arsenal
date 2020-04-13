@@ -3,11 +3,11 @@
 	"name": "Chaos Array factory",
 	"description": "Constructs Chaos arrays.",
 	"unitType": "chaos-array",
-	"produceTime": 3000,
+	"produceTime": 3500,
 	"size": 5,
 	"maxSpawn": 2,
 	"consumes": {
-		"power": 24,
+		"power": 18,
 		"items": {
 		"items": [
             {"item": "graphite", "amount": 150.0},

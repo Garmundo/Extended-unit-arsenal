@@ -3,7 +3,7 @@
 	"name": "Eradicator factory",
 	"description": "Constructs eradicators.",
 	"unitType": "eradicator",
-	"produceTime": 7200,
+	"produceTime": 7500,
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
