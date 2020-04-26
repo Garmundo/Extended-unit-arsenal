@@ -18,10 +18,10 @@
 	"ammo": {
 		"metaglass":{
 		 "type": "BasicBulletType",
-		 "ammoMultiplier": 10,
+		 "ammoMultiplier": 8,
       "bulletWidth": 7,
       "speed": 6,
-      "damage": 12,
+      "damage": 16,
       "bulletHeight": 20,
       "bulletShrink": 0,
        "status": "burning",
@@ -40,10 +40,10 @@
 		}
 	"pyratite":{
 	  "type": "BasicBulletType",
-	  "ammoMultiplier": 16,
+	  "ammoMultiplier": 8,
       "bulletWidth": 7,
       "speed": 7,
-      "damage": 45,
+      "damage": 32,
       "bulletHeight": 20,
       "bulletShrink": 0,
        "status": "burning",
@@ -64,7 +64,7 @@
 	"requirements": [
 	 	{ "item": "copper", "amount": 200 },
 		{ "item": "titanium", "amount": 140},
-		{ "item": "plastanium", "amount": 80}
+		{ "item": "plastanium", "amount": 100}
 	],
 	"category": "turret",
 	"research": "cyclone",
