@@ -1,6 +1,6 @@
 # Extended-unit-arsenal
 
-(Status: Normal)
+(Status: Updating)
 
 8 new "cruiser-class" units (revenant variant)
 2 new "capitals" (along with lich and reaper factories)
@@ -10,6 +10,7 @@ resemble the vanilla art style making this mod a simple extension of
 the unit arsenal without breaking the original vanilla experience.
 
 2 new heavy land units.
+4 new turrets
 
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
