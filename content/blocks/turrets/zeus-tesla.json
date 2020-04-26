@@ -1,0 +1,30 @@
+{
+    "type": "PowerTurret",
+    "name": "Zeus Coil",
+    "description": "Rapidly discharges electric arcs in all directions.",
+    "targetAir": true,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquid": false,
+	"powerUse": 9,
+    "shootType": "arc",
+    "health": 2500,
+    "size": 4,
+    "inaccuracy": 360,
+    "reload": 12,
+	"shots": 9,
+    "recoil": 4,
+    "shootCone": 360,
+    "rotateSpeed": 30,
+    "range": 150,
+    "shootEffect": "lightningShoot",
+    "requirements": [
+        { "item": "lead", "amount": 200 },
+        { "item": "copper", "amount": 240 },
+        { "item": "silicon", "amount": 200},
+        { "item": "plastanium", "amount": 200}
+    ],
+    "category": "turret",
+    "shootSound": "spark",
+	"research": "fuse"
+}

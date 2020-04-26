@@ -1,0 +1,53 @@
+{
+	"type": "ItemTurret",
+	"name": "Apollo",
+	"description": "Shoots a ring of frag bullets",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 2400,
+	"size": 4,
+	"inaccuracy": 0,
+	"reload": 200,
+	"shots": 36,
+	"spread": 10,
+	"recoil": 0,
+	"ammoUseEffect": "shellEjectBig",
+	"shootCone": 360,
+	"rotateSpeed": 50,
+	"range": 200,
+	"ammo": {
+		"phase-fabric":{
+		"type": "BasicBulletType",
+		"speed": 1.5,
+		"lifetime": 100,
+		"collides": true,
+		"damage": 120,
+		"fragBullets": 6,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		"speed": 1.5,
+		"damage": 12, 
+		"lifetime": 30,
+		"collides": true,
+		"fragBullets": 4,
+		"fragBullet":{
+		   "type": "BasicBulletType",
+		"speed": 1,
+		"lifetime": 20,
+		"damage": 4,
+		"collides": true,
+}
+}
+		}
+		     
+	},
+	"requirements": [
+	 	{ "item": "copper", "amount": 250 },
+		{ "item": "graphite", "amount": 200},
+		{ "item": "titanium", "amount": 200},
+		{ "item": "phase-fabric", "amount": 100},
+	],
+	"category": "turret",
+	"research": "spectre",
+	"shootSound": "bigshot"
+}
