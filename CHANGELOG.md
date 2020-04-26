@@ -7,3 +7,7 @@ Added in chaos array factory, eradicator factory, "tremor" and "thorium crawler"
 apr. 26
 <br>
 Added in 4 new turrets (Zeus tesla, flamestorm, apollo and tremor)
+<br><br>
+apr. 27
+<br>
+New sprites (aquarius, kugelblitz, draco, hephaestus, nebula, sagittarius and firestorm)
