@@ -5,16 +5,18 @@
 	"launchCost": [
     	{"item": "copper", "amount": 800},
     	{"item": "lead", "amount": 800},
-    	{"item": "titanium", "amount": 500}
+    	{"item": "titanium", "amount": 400},
+	{"item": "graphite", "amount": 600},
     	{"item": "metaglass", "amount": 400},
-    	{"item": "silicon", "amount": 300}
+    	{"item": "silicon", "amount": 400}
     ],
     "startingItems": [
     	{"item": "copper", "amount": 800},
     	{"item": "lead", "amount": 800},
-    	{"item": "titanium", "amount": 500},
+    	{"item": "titanium", "amount": 400},
     	{"item": "metaglass", "amount": 400},
-    	{"item": "silicon", "amount": 500}
+	{"item": "graphite", "amount": 600},
+    	{"item": "silicon", "amount": 400}
     ],
     "configureObjective":{
       "type": "Launched",
@@ -29,7 +31,14 @@
     	{
     	  "type": "Unlock",
     	  "block": "lich-factory"  
-    }
+        },
+{
+"type": "Unlock",
+	"block": "zeus-tesla"
+	
+}
+	
+	
     ],
     "resources": ["scrap", "copper", "lead", "coal", "sand", "titanium",  "thorium"]
 }
