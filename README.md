@@ -12,6 +12,8 @@ the unit arsenal without breaking the original vanilla experience.
 2 new heavy land units.
 4 new turrets
 
+New attack map, (to be converted into zone soon)
+
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
 speed in custom settings or downloading infinitodustry and using the 
