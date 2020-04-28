@@ -1,0 +1,35 @@
+{
+	"name": "Molten Chasm",
+	"description": "A foreign entity inhabits this high resource volcanic valley. They are on assault. Counter with all you've got and destroy their core.",
+	"loadout": "basicNucleus",
+	"launchCost": [
+    	{"item": "copper", "amount": 800},
+    	{"item": "lead", "amount": 800},
+    	{"item": "titanium", "amount": 500}
+    	{"item": "metaglass", "amount": 400},
+    	{"item": "silicon", "amount": 300}
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 800},
+    	{"item": "lead", "amount": 800},
+    	{"item": "titanium", "amount": 500},
+    	{"item": "metaglass", "amount": 400},
+    	{"item": "silicon", "amount": 500}
+    ],
+    "configureObjective":{
+      "type": "Launched",
+      "zone": "Molten_Chasm"
+    }
+    "requirements": [
+    	{
+    		"type": "zoneWave",
+    		"zone": "tarFields", 
+    		"wave": 30
+    	},
+    	{
+    	  "type": "Unlock",
+    	  "block": "lich-factory"  
+    }
+    ],
+    "resources": ["scrap", "copper", "lead", "coal", "sand", "titanium",  "thorium"]
+}
