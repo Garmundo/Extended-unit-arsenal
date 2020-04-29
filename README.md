@@ -12,7 +12,7 @@ the unit arsenal without breaking the original vanilla experience.
 2 new heavy land units.
 4 new turrets
 
-New attack map, (to be converted into zone soon)
+2 new campaign maps. Molten Chasm (Attack) and Tempest Plateau (Survival)
 
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
