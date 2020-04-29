@@ -11,3 +11,7 @@ Added in 4 new turrets (Zeus tesla, flamestorm, apollo and tremor)
 apr. 27
 <br>
 New sprites (aquarius, kugelblitz, draco, hephaestus, nebula, sagittarius and firestorm)
+<br><br>
+apr. 29
+<br>
+Added "Molten Chasm" and "Tempest Plateau" campaign maps.
