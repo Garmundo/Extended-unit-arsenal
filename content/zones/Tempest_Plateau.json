@@ -2,6 +2,12 @@
 	"name": "Tempest Plateau",
 	"description": "A cold and desolate high altitude region. Sand has been artificially created near the core but is scarce. New enemies await in this region. Make use of the large area and escape alive.",
 	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 700},
+    	{"item": "lead", "amount": 700},
+    	{"item": "metaglass", "amount": 200},
+    ],
 	"launchCost": [
     	{"item": "copper", "amount": 700},
     	{"item": "lead", "amount": 700},
