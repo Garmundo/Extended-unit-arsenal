@@ -6,17 +6,17 @@
     	{"item": "copper", "amount": 800},
     	{"item": "lead", "amount": 800},
     	{"item": "titanium", "amount": 400},
-	{"item": "graphite", "amount": 600},
-    	{"item": "metaglass", "amount": 400},
-    	{"item": "silicon", "amount": 400}
+	{"item": "graphite", "amount": 200},
+    	{"item": "metaglass", "amount": 200},
+    	{"item": "silicon", "amount": 200}
     ],
 	"launchCost": [
-    	{"item": "copper", "amount": 800},
-    	{"item": "lead", "amount": 800},
-    	{"item": "titanium", "amount": 400},
-	{"item": "graphite", "amount": 600},
-    	{"item": "metaglass", "amount": 400},
-    	{"item": "silicon", "amount": 400}
+    	{"item": "copper", "amount": 200},
+    	{"item": "lead", "amount": 200},
+    	{"item": "titanium", "amount": 50},
+	{"item": "graphite", "amount": 200},
+    	{"item": "metaglass", "amount": 200},
+    	{"item": "silicon", "amount": 200}
     ],
     "startingItems": [
     	{"item": "copper", "amount": 800},
