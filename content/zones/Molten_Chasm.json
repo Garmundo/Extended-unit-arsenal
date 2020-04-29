@@ -3,20 +3,20 @@
 	"description": "A foreign entity inhabits this high resource volcanic valley. They are on assault. Counter with all you've got and destroy their core.",
 	"loadout": "basicNucleus",
 	"baseLaunchCost": [
-    	{"item": "copper", "amount": 800},
-    	{"item": "lead", "amount": 800},
-    	{"item": "titanium", "amount": 400},
+    	{"item": "copper", "amount": 200},
+    	{"item": "lead", "amount": 200},
+    	{"item": "titanium", "amount": 200},
 	{"item": "graphite", "amount": 200},
     	{"item": "metaglass", "amount": 200},
     	{"item": "silicon", "amount": 200}
     ],
 	"launchCost": [
-    	{"item": "copper", "amount": 200},
-    	{"item": "lead", "amount": 200},
-    	{"item": "titanium", "amount": 50},
-	{"item": "graphite", "amount": 200},
-    	{"item": "metaglass", "amount": 200},
-    	{"item": "silicon", "amount": 200}
+    	{"item": "copper", "amount": 1200},
+    	{"item": "lead", "amount": 1200},
+    	{"item": "titanium", "amount": 250},
+	{"item": "graphite", "amount": 400},
+    	{"item": "metaglass", "amount": 400},
+    	{"item": "silicon", "amount": 500}
     ],
     "startingItems": [
     	{"item": "copper", "amount": 800},
