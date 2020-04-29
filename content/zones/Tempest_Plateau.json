@@ -17,6 +17,7 @@
       "zone": "Tempest_Plateau",
       "wave": 35,
     },
+     "conditionWave": 25,
     "launchPeriod": 25,
     "requirements": [
     	{
