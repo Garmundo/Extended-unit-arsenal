@@ -4,8 +4,8 @@
 	"loadout": "basicNucleus",
 	    	
 	"baseLaunchCost": [
-    	{"item": "copper", "amount": 700},
-    	{"item": "lead", "amount": 700},
+    	{"item": "copper", "amount": 200},
+    	{"item": "lead", "amount": 200},
     	{"item": "metaglass", "amount": 200},
     ],
 	"launchCost": [
