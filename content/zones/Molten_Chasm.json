@@ -2,6 +2,14 @@
 	"name": "Molten Chasm",
 	"description": "A foreign entity inhabits this high resource volcanic valley. They are on assault. Counter with all you've got and destroy their core.",
 	"loadout": "basicNucleus",
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 800},
+    	{"item": "lead", "amount": 800},
+    	{"item": "titanium", "amount": 400},
+	{"item": "graphite", "amount": 600},
+    	{"item": "metaglass", "amount": 400},
+    	{"item": "silicon", "amount": 400}
+    ],
 	"launchCost": [
     	{"item": "copper", "amount": 800},
     	{"item": "lead", "amount": 800},
