@@ -12,7 +12,7 @@
 		"items": [
             {"item": "titanium", "amount": 60.0},
             {"item": "silicon", "amount": 60.0},
-            {"item": "phase-fabric", "amount": 40 }        
+            {"item": "phase-fabric", "amount": 50 }        
       ]
 		}
   },
