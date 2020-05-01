@@ -23,7 +23,7 @@
       "zone": "Equinox_Coast",
       "wave": 25,
     },
-     "conditionWave": 10,
+     "conditionWave": 5,
     "launchPeriod": 20,
     "requirements": [
     	{
