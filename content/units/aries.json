@@ -1,0 +1,38 @@
+{
+	"type": "groundUnit",
+	"name": "Aries",
+	"description": "Fast melee mech with high close range damage.",
+	"maxVelocity": 2,
+	"speed": 0.5,
+	"drag": 0.1,
+	"mass": 20,
+	"hitsize": 40,
+	"rotatespeed": 0.8,
+	"health": 750,
+	"weapon": {
+		"name": "aries-horn",
+		"length": 0.1,
+		"recoil": 1,
+		"width": 0.1,
+		"reload": 7,
+		"alternate": false,
+		"shootSound": "shootBig",
+		"bullet":{
+		     "bulletWidth": 5,
+		     "knockback": 5,
+		     "bulletHeight": 5,
+             "type": "BasicBulletType",
+             "lifetime": 15,
+             "damage": 15,
+             "speed": 3,
+             "shootEffect": "shellEjectBig",
+             "splashDamageRadius": 10,
+             "splashDamage": 5,
+             "hitEffect": "hitMeltdown",
+             "despawnEffect": "hitMeltdown", 
+         
+                
+		}
+	
+	}
+}
