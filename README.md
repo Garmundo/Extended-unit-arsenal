@@ -11,6 +11,7 @@ the unit arsenal without breaking the original vanilla experience.
 
 2 new heavy land units.
 4 new turrets
+5 new special enemies
 
 2 new campaign maps. Molten Chasm (Attack) and Tempest Plateau (Survival)
 
