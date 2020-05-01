@@ -1,0 +1,36 @@
+{
+	"name": "Tempest Plateau",
+	"description": "Stay alert. The first scouting waves may seem easy to handle, but the enemy has some special units on the way. Make use of the bridges and abundant scrap, take as much resources as you can.",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 200},
+    	{"item": "lead", "amount": 200},
+    	{"item": "metaglass", "amount": 200},
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 600},
+    	{"item": "lead", "amount": 600},
+    	{"item": "metaglass", "amount": 200},
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 600},
+    	{"item": "lead", "amount": 600},
+    	{"item": "metaglass", "amount": 200},
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Equinox_Coast",
+      "wave": 25,
+    },
+     "conditionWave": 15,
+    "launchPeriod": 20,
+    "requirements": [
+    	{
+    	  "type": "zoneWave",
+    	  "zone": "ruinousShores",
+    	  "wave": "20",
+        },
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "scrap"]
+}
