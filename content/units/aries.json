@@ -8,7 +8,7 @@
 	"mass": 20,
 	"hitsize": 40,
 	"rotatespeed": 0.8,
-	"health": 750,
+	"health": 1000,
 	"weapon": {
 		"name": "aries-horn",
 		"length": 0.1,
