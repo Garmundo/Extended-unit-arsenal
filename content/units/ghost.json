@@ -1,7 +1,7 @@
 {
 	"type": "HoverUnit",
 	"name": "Apparition",
-	"description": "Cruiser-class battleship armed with phase technology which enable extreme maneuvers and teleportation. Armed with a machine gun.",
+	"description": "Cruiser-class battleship armed with advanced phase technology which enable extreme maneuvers and teleportation.",
    "drag": 15,
 	"speed": 100,
 	"maxVelocity": 100,
