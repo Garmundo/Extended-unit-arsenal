@@ -24,7 +24,7 @@
       "wave": 25,
     },
      "conditionWave": 15,
-    "launchPeriod": 20,
+    "launchPeriod": 120,
     "requirements": [
     	{
     	  "type": "zoneWave",
