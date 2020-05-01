@@ -23,13 +23,13 @@
       "zone": "Equinox_Coast",
       "wave": 25,
     },
-     "conditionWave": 15,
-    "launchPeriod": 120,
+     "conditionWave": 10,
+    "launchPeriod": 20,
     "requirements": [
     	{
     	  "type": "zoneWave",
     	  "zone": "ruinousShores",
-    	  "wave": "20",
+    	  "wave": "120",
         },
     ],
     "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "scrap"]
