@@ -6,7 +6,7 @@
 	"speed": 0.02,
 	"mass": 70,
 	"hitsize": 45,
-	"health": 6000,
+	"health": 8000,
   "flying": true,
 	"rotateWeapon": true,
 	"engineOffset": 11,
