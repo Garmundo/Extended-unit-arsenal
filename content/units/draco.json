@@ -18,14 +18,14 @@
 		"name": "draco-scorch",
 		"length": 1,
 		"width": 6,
-		"reload": 0.5,
-    "shots": 4,
+		"reload": 50,
+    "shots": 25,
     "shootcone": 40,
     "shotDelay": 1,
 		"alternate": false,
     "velocityRnd": 0.4,
     "spacing": 0.5,
     "shootSound": "artillery",
-		"bullet": "pyraFlame",
+		"bullet": "basicFlame",
 	}
 }
