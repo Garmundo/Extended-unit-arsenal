@@ -7,20 +7,20 @@
 	"size": 4,
 	"maxSpawn": 3,
 	"consumes": {
-		"power": 3.5,
+		"power": 3.7,
 		"items": {
 		"items": [
-            {"item": "titanium", "amount": 40.0},
-            {"item": "silicon", "amount": 50.0},        
+            {"item": "titanium", "amount": 50.0},
+            {"item": "silicon", "amount": 60.0},        
             {"item": "pyratite", "amount": 40.0}
       ]
 		}
   },
 	"requirements": [
-	    {"item": "lead", "amount": 150},
-		{"item": "titanium", "amount": 150},
-		{ "item": "plastanium", "amount": 40 },
-		{"item": "silicon", "amount" : 180},
+	    {"item": "lead", "amount": 180},
+		{"item": "titanium", "amount": 180},
+		{ "item": "plastanium", "amount": 70},
+		{"item": "silicon", "amount" : 220},
 	],
 	"category": "units",
 	"research": "hephaestus-factory"
