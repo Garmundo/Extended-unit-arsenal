@@ -34,7 +34,7 @@
       "damage": 900,
       "bulletHeight": 40,
       "bulletShrink": 0,
-      "lifetime": 900,
+      "lifetime": 500,
       "backColor": "ffffff",
       "frontColor": "ffeedd",
       "shootEffect": "flakExplosion",
