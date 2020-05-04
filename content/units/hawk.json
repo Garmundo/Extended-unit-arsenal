@@ -35,7 +35,7 @@
       "bulletHeight": 10,
       "bulletShrink": 0,
        "inaccuracy": 0,
-      "lifetime": 300,
+      "lifetime": 150,
       "splashDamageRadius": 10,
       "splashDamage": 10,
      "backColor": "ffeeff",
