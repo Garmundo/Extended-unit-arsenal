@@ -19,7 +19,7 @@
 		"length": 0.1,
 		"width": 0.1,
 		"reload": 200,
-    "shots": 50, 
+    "shots": 40, 
     "shootcone": 200,
     "shotDelay": 1,
 		"alternate": false,
