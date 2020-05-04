@@ -36,7 +36,7 @@
        "inaccuracy": 5,
        "status": "burning",
        "statusDuration": 1000,
-      "lifetime": 40,
+      "lifetime": 75,
       "shootEffect": "hitMeltdown",
       "splashDamageRadius": 10,
       "splashDamage": 0.3,
