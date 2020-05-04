@@ -16,11 +16,14 @@ apr. 29
 <br>
 Added "Molten Chasm" and "Tempest Plateau" campaign maps.
 <br><br>
-may. 1
+may 1
 <br>
 new enemies and Equinox Coast (survival)
 <br><br>
-may 3.
+may 3
 <br>
 behemoth unit and some balances
-
+<br><br>
+may 4 - currently
+<br>
+Working on some balances... gave the phantasm homing missiles so it can finally hit stuff
