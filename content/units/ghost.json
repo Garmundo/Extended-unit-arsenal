@@ -33,22 +33,23 @@
 		"bullet": {
 		  "type": "MissileBulletType",
       "bulletWidth": 6,
-      "speed": 3,
-      "knockback": 0.5,
+      "speed": 3, 
+	"inaccuracy": 3,
+      " knockback": 0.5,
       "recoil": 0.5,
       "damage": 8,
       "bulletHeight": 6,
       "bulletShrink": 0,
-      "drag": -0.02,
+      "drag": -0.8,
       "keepVelocity": false,
       "splashDamageRadius": 15,
       "splashDamage": 4,
-      "lifetime": 70,
+      "lifetime": 90,
       "backColor": "fffabb",
       "frontColor": "fffabb",
         "weaveScale": 6,
       "weaveMag": 1,
-        "homingRange": 50,
+        "homingRange": 120,
 }
 	}
 }
