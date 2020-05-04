@@ -39,7 +39,7 @@
       "keepVelocity": false,
       "splashDamageRadius": 15,
       "splashDamage": 200,
-      "lifetime": 900,
+      "lifetime": 500,
       "shootEffect": "shockwave",
       "trailColor": "22ffff",
       "backColor": "55f5ff",
