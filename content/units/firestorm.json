@@ -29,7 +29,7 @@
 		"bullet": {
 		  "type": "BasicBulletType",
       "bulletWidth": 3,
-      "speed": 3,
+      "speed": 4,
       "damage": 0.4,
       "bulletHeight": 8,
       "bulletShrink": 0,
