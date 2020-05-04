@@ -15,3 +15,12 @@ New sprites (aquarius, kugelblitz, draco, hephaestus, nebula, sagittarius and fi
 apr. 29
 <br>
 Added "Molten Chasm" and "Tempest Plateau" campaign maps.
+<br><br>
+may. 1
+<br>
+new enemies and Equinox Coast (survival)
+<br><br>
+may 3.
+<br>
+behemoth unit and some balances
+
