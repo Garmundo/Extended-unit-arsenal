@@ -3,7 +3,7 @@
 	"name": "Supernova",
 	"description": "Advanced Electric missile array capital. Launches electric-incendiary missiles in all directions",
    "drag": 0.15,
-	"speed": 0.05,
+	"speed": 0.06,
 	"mass": 70,
 	"hitsize": 45,
 	"health": 8000,
