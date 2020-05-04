@@ -9,7 +9,7 @@
 	"hitsize": 90.0,
 	"rotatespeed": 0.01,
 	"baseRotateSpeed": 0.01,
-	"health": 600000,
+	"health": 360437,
 	"weaponOffsetY": 0,
 	"weapon": {
 		"name": "Behemoth-Launcher",
