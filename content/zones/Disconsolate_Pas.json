@@ -1,40 +1,43 @@
 {
-	"name": "Tempest Plateau",
+	"name": "Disconsolate Pass",
 	"description": "A cold and desolate high altitude region. Sand has been artificially created near the core but is scarce. New enemies await in this region. Make use of the large area and escape alive. Rumor has it that the foreign fleets have a mothership on standby.",
 	"loadout": "basicNucleus",
 	    	
 	"baseLaunchCost": [
     	{"item": "copper", "amount": 200},
     	{"item": "lead", "amount": 200},
-    	{"item": "metaglass", "amount": 200},
+    	{"item": "silicon", "amount": 200},
     ],
-	"launchCost": [
-    	{"item": "copper", "amount": 700},
-    	{"item": "lead", "amount": 700},
-    	{"item": "metaglass", "amount": 200},
-    ],
-    "startingItems": [
-    	{"item": "copper", "amount": 700},
-    	{"item": "lead", "amount": 700},
-    	{"item": "metaglass", "amount": 200},
+	"launchCost": [	
+	{"item": "copper", "amount": 1200},
+    	{"item": "lead", "amount": 1200},
+    	{"item": "silicon", "amount": 250},
+    	{"item": "graphite", "amount": 250},
+    	{"item": "metaglass", "amount": 500},
+        ],
+    "startingItems": [	       
+	{"item": "copper", "amount": 1200},
+    	{"item": "lead", "amount": 1200},
+    	{"item": "silicon", "amount": 250},
+    	{"item": "graphite", "amount": 250},
+    	{"item": "metaglass", "amount": 500},     	
     ],
     "configureObjective": {
     "type": "zoneWave",
-      "zone": "Tempest_Plateau",
-      "wave": 35,
+      "zone": "Disconsolate_Pas",
+      "wave": 10,
     },
-     "conditionWave": 25,
-    "launchPeriod": 25,
+     "conditionWave": 5,
+    "launchPeriod": 5,
     "requirements": [
-    	{
-    		"type": "Launched",
-    		"zone": "fungalPass", 
-    	},
+    	
+    		
+   
     	{
     	  "type": "zoneWave",
-    	  "zone": "nuclearComplex",
-    	  "wave": "90",
+    	  "zone": "desolateRift",
+    	  "wave": "20",
         },
     ],
-    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium"]
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "obsidian"]
 }
