@@ -11,9 +11,10 @@ the unit arsenal without breaking the original vanilla experience.
 
 2 new heavy land units.
 4 new turrets
-5 new special enemies
+8 new special enemies
+1 Super boss unit
 
-3 new campaign maps. Molten Chasm (Attack) Tempest Plateau (Survival) and EquinoxCoast (survival)
+4 new campaign maps.
 
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
