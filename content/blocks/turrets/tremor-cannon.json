@@ -7,7 +7,7 @@
 	"health": 2400,
 	"size": 3,
 	"inaccuracy": 0.5,
-	"reload": 50,
+	"reload": 60,
 	"shots": 1,
 	"recoil": 5,
 	"ammoUseEffect": "shellEjectBig",
