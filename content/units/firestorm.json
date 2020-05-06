@@ -2,7 +2,7 @@
 	"type": "HoverUnit",
 	"name": "Firestorm",
 	"description": "Cruiser-class battleship. Equipped with firestorm miniguns which set fire to unshielded areas.",
-    "drag": 0.1,
+    "drag": 0.5,
 	"speed": 0.1,
 	"mass": 40,
 	"hitsize": 30,
