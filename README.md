@@ -16,7 +16,8 @@ the unit arsenal without breaking the original vanilla experience.
 
 4 new campaign maps.
 
-Soon to come: Crimson expansion. A new lineup of maps and ships at the other end of the Disconsolate Passage map new resources and others
+Soon to come: Crimson expansion. A new lineup of maps and ships at the other end of the Disconsolate Passage map
+New resources and others
 
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
