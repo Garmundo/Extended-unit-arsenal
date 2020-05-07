@@ -27,3 +27,7 @@ behemoth unit and some balances
 may 4 - currently
 <br>
 Working on some balances... gave the phantasm homing missiles so it can finally hit stuff
+<br><br>
+may 5
+<br>
+Disconsolate pass campaign map added, some new enemies and a super boss unit.
