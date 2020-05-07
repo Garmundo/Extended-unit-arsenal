@@ -3,7 +3,7 @@
 	"name": "Draco",
 	"description": "Cruiser-class battleship. Equipped with scorch-class armaments. High close range damage.",
    "drag": 0.05,
-	"speed": 0.05,
+	"speed": 0.08,
 	"mass": 20,
 	"hitsize": 25,
 	"health": 800,
