@@ -1,6 +1,6 @@
 {
 	"type": "unitFactory",
-	"name": "Apparition factory",
+	"name": "Apparition Cruiser factory",
 	"description": "Construct teleporting apparition missile arrays.",
 	"unitType": "ghost",
 	"produceTime": 2100,
