@@ -2,13 +2,13 @@
 
 (Status: Normal)
 
-8 new "cruiser-class" units (revenant variant)
+9 new "cruiser-class" units (revenant variant)
 2 new "capitals" (along with lich and reaper factories)
 and 2 powerful "mothership" class destroyers are added into 
 mindustry. All require the vanilla resources and have sprites which 
 resemble the vanilla art style 
 
-2 new heavy land units.
+3 new land units.
 4 new turrets
 8 new special enemies
 1 Super boss unit
