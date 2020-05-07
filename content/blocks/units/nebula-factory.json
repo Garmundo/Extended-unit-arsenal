@@ -10,17 +10,17 @@
 		"power": 3.7,
 		"items": {
 		"items": [
-            {"item": "titanium", "amount": 40.0},
-            {"item": "silicon", "amount": 40.0},        
-            {"item": "phase-fabric", "amount": 10.0}
+            {"item": "titanium", "amount": 50.0},
+            {"item": "silicon", "amount": 50.0},        
+            {"item": "phase-fabric", "amount": 30.0}
       ]
 		}
   },
 	"requirements": [
-	    {"item": "lead", "amount": 160},
-		{"item": "titanium", "amount": 160},
-		{ "item": "plastanium", "amount": 70 },
-		{"item": "silicon", "amount" : 190}	],
+	    {"item": "lead", "amount": 180},
+		{"item": "titanium", "amount": 180},
+		{ "item": "plastanium", "amount": 90 },
+		{"item": "silicon", "amount" : 200}	],
 	"category": "units",
 	"research": "kugelblitz-factory"
 }
