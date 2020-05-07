@@ -31,3 +31,7 @@ Worked on some balances... gave the phantasm homing missiles so it can finally h
 may 6
 <br>
 Disconsolate pass campaign map added, some new enemies and a super boss unit.
+<br><br>
+may 7
+<br>
+Added aries and apparition factories
