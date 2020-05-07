@@ -40,7 +40,7 @@
       "shootEffect": "hitMeltdown",
       "splashDamageRadius": 10,
       "splashDamage": 0.3,
-      "incendAmount": 4,
+      "incendAmount": 3,
       "incendSpread": 5,
       "incendChance": 50,
      "backColor": "ffffcc",
