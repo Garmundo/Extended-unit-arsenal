@@ -22,7 +22,7 @@
     "shots": 40, 
     "shootcone": 360,
     "shotDelay": 1,
-    "spacing": 2,
+    "spacing": 1,
 		"alternate": false,
     "velocityRnd": 0.4,
     "shootSound": "artillery",
