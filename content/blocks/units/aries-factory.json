@@ -1,0 +1,25 @@
+{
+	"type": "unitFactory",
+	"name": "Aries factory",
+	"description": "Constructs fast Aries melee units.",
+	"unitType": "aries",
+	"produceTime": 650,
+	"size": 3,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 1.7,
+		"items": {
+		"items": [
+            {"item": "graphite", "amount": 20.0},
+            {"item": "silicon", "amount": 25.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "lead", "amount": 150}
+		{"item": "silicon", "amount" : 150}
+		{ "item": "graphite", "amount": 100},
+	],
+	"category": "units",
+	"research": "titan-factory"
+}

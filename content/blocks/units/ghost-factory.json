@@ -1,0 +1,27 @@
+{
+	"type": "unitFactory",
+	"name": "Apparition Cruiser factory",
+	"description": "Construct teleporting apparition missile arrays.",
+	"unitType": "ghost",
+	"produceTime": 2100,
+	"size": 4,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 3.5,
+		"items": {
+		"items": [
+            {"item": "titanium", "amount": 40.0},
+            {"item": "silicon", "amount": 40.0}, 
+            {"item": "phase-fabric", "amount": 30.0}       
+            ]
+		}
+  },
+	"requirements": [
+	    {"item": "lead", "amount": 160},
+		{"item": "titanium", "amount": 160},
+		{"item": "silicon", "amount" : 180},
+		{"item": "plastanium", "amount": 80}
+	],
+	"category": "units",
+	"research": "nebula-factory"
+}
