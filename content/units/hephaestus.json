@@ -14,9 +14,11 @@
 	"rotatespeed": 0.1,
 	"baseRotateSpeed": 0.2,
 	"shootCone": 360,
+	"range": 200,
 	"weapon": {
 		"name": "hephaestean-blaze",
 		"length": 1,
+		"range": 200,
 		"width": 6,
 		"reload": 100,
     "shots": 30,
