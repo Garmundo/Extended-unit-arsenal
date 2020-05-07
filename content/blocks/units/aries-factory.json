@@ -7,11 +7,11 @@
 	"size": 3,
 	"maxSpawn": 4,
 	"consumes": {
-		"power": 1.7,
+		"power": 1.2,
 		"items": {
 		"items": [
-            {"item": "graphite", "amount": 20.0},
-            {"item": "silicon", "amount": 25.0},
+            {"item": "graphite", "amount": 15.0},
+            {"item": "silicon", "amount": 15.0},
       ]
 		}
   },
