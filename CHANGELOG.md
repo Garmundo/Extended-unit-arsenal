@@ -28,6 +28,6 @@ may 4
 <br>
 Worked on some balances... gave the phantasm homing missiles so it can finally hit stuff
 <br><br>
-may 5
+may 6
 <br>
 Disconsolate pass campaign map added, some new enemies and a super boss unit.
