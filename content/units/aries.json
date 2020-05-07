@@ -8,12 +8,15 @@
 	"mass": 20,
 	"hitsize": 25,
 	"rotatespeed": 0.8,
-	"health": 1000,
+	"health": 1000, 
+	"range": 150,
+	
 	"weapon": {
 		"name": "aries-horn",
 		"length": 0.1,
 		"recoil": 1,
-		"width": 0.1,
+		"width": 0.1, 
+		"range":150,
 		"reload": 7,
 		"alternate": false,
 		"shootSound": "shootBig",
