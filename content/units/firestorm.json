@@ -11,8 +11,8 @@
 	"rotateWeapon": true,
 	"engineOffset": 10,
 	"engineSize": 4,
-	"rotatespeed": 0.4,
-	"baseRotateSpeed": 0.4,
+	"rotatespeed": 0.2,
+	"baseRotateSpeed": 0.2,
 	"shootCone": 360,
 	"weapon": {
 		"name": "firestorm-minigun",
