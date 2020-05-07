@@ -24,9 +24,9 @@ may 3
 <br>
 behemoth unit and some balances
 <br><br>
-may 4 - currently
+may 4 
 <br>
-Working on some balances... gave the phantasm homing missiles so it can finally hit stuff
+Worked on some balances... gave the phantasm homing missiles so it can finally hit stuff
 <br><br>
 may 5
 <br>
