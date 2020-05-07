@@ -3,7 +3,7 @@
 	"name": "Hephaestus",
 	"description": "Cruiser-class battleship. Equipped with hephaestean blaze actuators which leave lingering explosive trails.",
    "drag": 0.05,
-	"speed": 0.07,
+	"speed": 0.09,
 	"mass": 20,
 	"hitsize": 25,
 	"health": 1000,
