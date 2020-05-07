@@ -14,11 +14,13 @@
 	"rotatespeed": 0.4,
 	"baseRotateSpeed": 0.4,
 	"shootCone": 360,
+	"range": 200,
+	
 	"weapon": {
 		"name": "nebula-coil",
 		"length": 0.1,
 		"width": 7,
-		"range":100,
+		"range": 200,
 		"reload": 140,
     "shots": 9, 
     "shootcone": 250,
