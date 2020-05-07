@@ -3,16 +3,16 @@
 	"name": "Draco cruiser factory",
 	"description": "Constructs cruiser-class draco battleships",
 	"unitType": "draco",
-	"produceTime": 2200,
+	"produceTime": 2100,
 	"size": 4,
 	"maxSpawn": 3,
 	"consumes": {
-		"power": 3.6,
+		"power": 3.5,
 		"items": {
 		"items": [
-            {"item": "titanium", "amount": 60.0},
-            {"item": "silicon", "amount": 70.0},        
-            {"item": "pyratite", "amount": 40.0}
+            {"item": "titanium", "amount": 50.0},
+            {"item": "silicon", "amount": 60.0},        
+            {"item": "pyratite", "amount": 30.0}
       ]
 		}
   },
