@@ -13,7 +13,7 @@
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 30,
 	"rotateSpeed": 50,
-	"range": 250,
+	"range": 240,
 	"ammo": {
 		"graphite":{
 			"bulletWidth": 20,
