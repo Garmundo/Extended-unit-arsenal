@@ -1,0 +1,23 @@
+{
+	"type": "unitFactory",
+	"name": "Supernova factory",
+	"description": "sandbox-only, supernova factory",
+	"unitType": "supernova",
+	"produceTime": 1000,
+	"size": 7,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 60,
+		"items": {
+		"items": [
+            {"item": "silicon", "amount": 10.0},        
+            ]
+        
+		}
+  },
+	"requirements": [
+		{"item": "silicon", "amount" : 10},
+	],
+	"category": "units",
+	"buildVisibility": "sandboxOnly",
+}

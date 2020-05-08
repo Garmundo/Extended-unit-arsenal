@@ -1,0 +1,23 @@
+{
+	"type": "unitFactory",
+	"name": "Behemoth Summoner",
+	"description": "Let the ground shake, let nature weep, let all life tremble in fear. Summon an abbomination from the depths",
+	"unitType": "Behemoth",
+	"produceTime": 1000,
+	"size": 8,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 100,
+		"items": {
+		"items": [
+            {"item": "obsidian", "amount": 10.0},       
+            ]
+        
+		}
+  },
+	"requirements": [
+	    {"item": "obsidian", "amount": 40},
+	],
+	"category": "units",
+	"buildVisibility": "sandboxOnly",
+}
