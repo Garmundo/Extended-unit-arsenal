@@ -6,7 +6,7 @@
     "targetGround": true,
     "hasPower": true,
     "hasLiquid": false,
-	"powerUse": 18,
+	"powerUse": 14,
     "shootType": "arc",
     "health": 2500,
     "size": 4,
