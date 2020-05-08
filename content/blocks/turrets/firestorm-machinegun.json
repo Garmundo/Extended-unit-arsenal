@@ -43,7 +43,7 @@
 	  "ammoMultiplier": 8,
       "bulletWidth": 7,
       "speed": 7,
-      "damage": 18,
+      "damage": 12,
       "bulletHeight": 20,
       "bulletShrink": 0,
        "status": "burning",
