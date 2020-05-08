@@ -1,7 +1,7 @@
 {
 	"type": "unitFactory",
 	"name": "Behemoth Summoner",
-	"description": "Let the ground shake, let nature weep, let all life tremble in fear. Summon an abbomination from the depths",
+	"description": "Everything eventually comes to an end.",
 	"unitType": "Behemoth",
 	"produceTime": 1000,
 	"size": 8,
