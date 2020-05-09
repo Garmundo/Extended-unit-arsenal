@@ -35,3 +35,11 @@ Disconsolate pass campaign map added, some new enemies and a super boss unit.
 may 7
 <br>
 Added aries and apparition factories
+<br><br>
+may 8
+<br>
+behemoth and supernova available in sandbox
+<br><br>
+may 9
+<br>
+Lonely Island campaign map
