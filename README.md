@@ -13,7 +13,7 @@ resemble the vanilla art style
 8 new special enemies
 1 Super boss unit
 
-4 new campaign maps.
+5 new campaign maps.
 
 Soon to come: Crimson expansion. A new lineup of maps and ships at the other end of the Disconsolate Passage map
 with new resources and others
