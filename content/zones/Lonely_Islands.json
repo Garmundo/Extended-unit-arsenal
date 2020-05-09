@@ -1,0 +1,40 @@
+{
+	"name": "Lonely Island",
+	"description": "Past the shores is an isolated set of islands. The water in this area is abundant, however it cuts of passage ways for land units. Manage the disconnected islands, make use of mass drivers and prepare aerial defenses quick. The enemy here is ruthless.",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 200},
+    	{"item": "lead", "amount": 200},
+    	{"item": "metaglass", "amount": 200},
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 700},
+    	{"item": "lead", "amount": 700},
+    	{"item": "metaglass", "amount": 500},
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 500},
+    	{"item": "metaglass", "amount": 500},
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Lonely_Islands",
+      "wave": 32,
+    },
+     "conditionWave": 20,
+    "launchPeriod": 20,
+    "requirements": [
+    	{
+    	  "type": "zoneWave",
+    	  "zone": "ruinousShores",
+    	  "wave": "20",
+        },
+        {
+          "type": "unlock",
+          "block": "mass-driver",
+        }
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "scrap"]
+}
