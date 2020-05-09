@@ -29,7 +29,7 @@
     	{
     	  "type": "zoneWave",
     	  "zone": "ruinousShores",
-    	  "wave": "120",
+    	  "wave": "85",
         },
     ],
     "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "scrap"]
