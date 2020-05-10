@@ -15,9 +15,6 @@ resemble the vanilla art style
 
 5 new campaign maps.
 
-Soon to come: Crimson expansion. A new lineup of maps and ships at the other end of the Disconsolate Passage map
-with new resources and others
-
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
 speed in custom settings or downloading infinitodustry and using the 
