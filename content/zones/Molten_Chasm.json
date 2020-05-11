@@ -11,20 +11,20 @@
     	{"item": "silicon", "amount": 200}
     ],
 	"launchCost": [
-    	{"item": "copper", "amount": 1200},
-    	{"item": "lead", "amount": 1200},
-    	{"item": "titanium", "amount": 250},
-	{"item": "graphite", "amount": 400},
-    	{"item": "metaglass", "amount": 400},
+    	{"item": "copper", "amount": 1400},
+    	{"item": "lead", "amount": 1400},
+    	{"item": "titanium", "amount": 500},
+	{"item": "graphite", "amount": 500},
+    	{"item": "metaglass", "amount": 500},
     	{"item": "silicon", "amount": 500}
     ],
     "startingItems": [
-    	{"item": "copper", "amount": 800},
-    	{"item": "lead", "amount": 800},
-    	{"item": "titanium", "amount": 400},
-    	{"item": "metaglass", "amount": 400},
-	{"item": "graphite", "amount": 600},
-    	{"item": "silicon", "amount": 400}
+    	{"item": "copper", "amount": 1400},
+    	{"item": "lead", "amount": 1400},
+    	{"item": "titanium", "amount": 500},
+    	{"item": "metaglass", "amount": 500},
+	{"item": "graphite", "amount": 500},
+    	{"item": "silicon", "amount": 500}
     ],
     "configureObjective":{
       "type": "Launched",
