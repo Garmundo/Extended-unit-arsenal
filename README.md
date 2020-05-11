@@ -1,7 +1,5 @@
 # Extended-unit-arsenal
 
-Note: Molten chasm is being fixed, the current version is absolutely nuts it needs to be toned down
-
 (Status: Normal)
 
 9 new "cruiser-class" units (revenant variant)
