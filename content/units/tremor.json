@@ -15,7 +15,7 @@
 		"recoil": 5,
 		"width": 0.1,
 		"reload": 60,
-		"alternate": false,
+		"alternate": true,
 		"shootSound": "shootBig",
 		"bullet":{
 		     "bulletWidth": 20,
