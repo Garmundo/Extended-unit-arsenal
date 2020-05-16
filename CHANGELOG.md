@@ -43,3 +43,7 @@ behemoth and supernova available in sandbox
 may 9
 <br>
 Lonely Island campaign map
+<br><br>
+may 16
+<br>
+Promethean resprite, increased thorium crawler speed
