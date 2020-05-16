@@ -14,9 +14,11 @@
 	"rotatespeed": 0.05,
 	"baseRotateSpeed": 0.02,
 	"shootCone": 120,
+	"range": 3200,
 	"weapon": {
 		"name": "nothing",
 		"length": 3,
+		"range": 3200,
 		"width": 0.1,
 		"reload": 2000,
     "shots": 1,
