@@ -10,8 +10,10 @@
 	"shootCone": 360,
 	"rotatespeed": 0.04,
 	"health": 1000,
+	"range" 40,
 	"weapon": {
 		"name": "nothing",
+	"range": 40,
 		"length": 13, 
 		"shootcone": 360,
 		"range": 60,
