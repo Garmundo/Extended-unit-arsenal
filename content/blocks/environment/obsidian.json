@@ -3,7 +3,7 @@
 	"type": "OreBlock",
 	"itemDrop": "obsidian",
 	"variants": 3,
-	"oreDefault": false,
+	"oreDefault": true,
 	"oreScale": 23.87,
 	"oreThreshold": 0.783
 }
