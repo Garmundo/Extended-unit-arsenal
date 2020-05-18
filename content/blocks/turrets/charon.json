@@ -28,7 +28,7 @@
 		"drag": 0.01,
 		"lifetime": 70,
 		"collides": true,
-		"damage": 16,
+		"damage": 20,
 		"status": "burning",
 		"splashDamage": 0.2,
 		"splashDamageRadius": 8,
@@ -44,7 +44,7 @@
 		"drag": 0.01,
 		"lifetime": 70,
 		"collides": true,
-		"damage": 8,
+		"damage": 12,
 		"frontColor": "ff6666",
 		"backColor": "ff4444",
 		}
