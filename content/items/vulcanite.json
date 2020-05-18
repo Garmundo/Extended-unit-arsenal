@@ -1,0 +1,9 @@
+{
+type: resource
+hardness: 1
+name: Vulcanite
+cost: 1.2
+flammability: 0.8
+explosiveness: 0.4
+color: b12a29
+}
