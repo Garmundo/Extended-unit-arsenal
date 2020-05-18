@@ -15,6 +15,9 @@ resemble the vanilla art style
 
 5 new campaign maps.
 
+-new resources for higher tier weapons and units-
+3 new turrets
+
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
 speed in custom settings or downloading infinitodustry and using the 
