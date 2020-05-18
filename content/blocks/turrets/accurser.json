@@ -1,0 +1,182 @@
+{
+	"type": "ItemTurret",
+	"name": "Accurser",
+	"description": "Burn from the curse of the fire wisps.",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 2400,
+	"size": 4,
+	"inaccuracy": 0.1,
+	"reload": 120,
+	"shots": 7,
+	"ammoPerShot": 4,
+	"spacing": 3,
+	"recoil": 3,
+	"ammoUseEffect": "shellEjectBig",
+	"shootCone": 60,
+	"rotateSpeed": 30,
+	"range": 250,
+	"ammo": {
+		"crimson-alloy":{
+			"bulletWidth": 12,
+		     "bulletHeight": 12,
+             "type": "MissileBulletType",
+             "lifetime": 60,
+             "damage": 50,
+             "speed": 3,
+             "splashDamageRadius": 30,
+             "splashDamage": 30,
+             "status": "burning",
+             "statusDuration": "5000",
+              "weaveScale": 6,
+       "weaveMag": 1,
+         "homingRange": 120,
+           "backColor": "ffffff",
+     "frontColor": "fefefe",
+     "trailColor": "ffffff"
+     "fragVelocityMin": 1,
+     "fragVelocityMax": 1,
+     "fragBullets":1,
+     
+     "fragBullet":{
+     "bulletWidth": 12,
+     "collides": false,
+		     "bulletHeight": 12,
+             "type": "MissileBulletType",
+             "lifetime": 30,
+             "speed": 2,
+             "status": "burning",
+             "statusDuration": "5000",
+              "weaveScale": 4,
+       "weaveMag": 1,
+         "homingRange": 120,
+           "backColor": "dddddd",
+     "frontColor": "eeeeee",
+     "trailColor": "aaaaaa",
+     "fragVelocityMin": 1,
+     "fragVelocityMax": 1,
+     "fragBullets":1,
+     
+     "fragBullet":{
+        "bulletWidth": 12,
+		     "bulletHeight": 12,
+             "type": "MissileBulletType",
+             "lifetime": 100,
+             "damage": 40,
+             "speed": 2,
+             "splashDamageRadius": 30,
+             "splashDamage": 25,
+             "status": "burning",
+             "statusDuration": "5000",
+              "weaveScale": 4,
+       "weaveMag": 1,
+         "homingRange": 120,
+           "backColor": "ffffff",
+     "frontColor": "fefefe",
+     "trailColor": "ffffff"
+     "fragVelocityMin": 1,
+     "fragVelocityMax": 1,
+     "fragBullets":1,
+     
+     "fragBullet":{
+          "bulletWidth": 12,
+     "collides": false,
+		     "bulletHeight": 12,
+             "type": "MissileBulletType",
+             "lifetime": 30,
+             "speed": 2,
+             "status": "burning",
+             "statusDuration": "5000",
+              "weaveScale": 4,
+       "weaveMag": 1,
+         "homingRange": 120,
+           "backColor": "dddddd",
+     "frontColor": "eeeeee",
+     "trailColor": "aaaaaa"
+     "fragVelocityMin": 1,
+     "fragVelocityMax": 1,
+     "fragBullets":1,
+     
+     "fragBullet":{
+        "bulletWidth": 12,
+		     "bulletHeight": 12,
+             "type": "MissileBulletType",
+             "lifetime": 100,
+             "damage": 35,
+             "speed": 2,
+             "splashDamageRadius": 30,
+             "splashDamage": 25,
+             "status": "burning",
+             "statusDuration": "5000",
+              "weaveScale": 4,
+       "weaveMag": 1,
+         "homingRange": 120,
+           "backColor": "ffffff",
+     "frontColor": "fefefe",
+     "trailColor": "ffffff"
+     "fragVelocityMin": 1,
+     "fragVelocityMax": 1,
+     "fragBullets":1,
+     
+     "fragBullet":{
+         "bulletWidth": 12,
+     "collides": false,
+		     "bulletHeight": 12,
+             "type": "MissileBulletType",
+             "lifetime": 30,
+             "speed": 2,
+             "status": "burning",
+             "statusDuration": "5000",
+              "weaveScale": 4,
+       "weaveMag": 1,
+         "homingRange": 120,
+           "backColor": "eeeeee",
+     "frontColor": "eeeeee",
+     "trailColor": "aaaaaa"
+     "fragVelocityMin": 1,
+     "fragVelocityMax": 1,
+     "fragBullets":1,
+     
+     "fragBullet":{
+        "bulletWidth": 12,
+		     "bulletHeight": 12,
+             "type": "MissileBulletType",
+             "lifetime": 100,
+             "damage": 30,
+             "speed": 2,
+             "splashDamageRadius": 30,
+             "splashDamage": 25,
+             "status": "burning",
+             "statusDuration": "5000",
+              "weaveScale": 4,
+       "weaveMag": 1,
+         "homingRange": 120,
+           "backColor": "ffffff",
+     "frontColor": "fefefe",
+     "trailColor": "ffffff"
+     "fragVelocityMin": 1,
+     "fragVelocityMax": 1,
+     }
+     
+     }
+     }
+     }
+     }
+     }
+     }
+     
+	},
+	
+	
+	
+	"requirements": [
+	 	{ "item": "crimson-alloy", "amount": 380 },
+		{ "item": "crimson-compoundB", "amount": 350},
+		{ "item": "surge-alloy", "amount": 320},
+		{"item": "plastanium", "amount": 340},
+		{"item": "obsidian", "amount": 380}
+	],
+	"category": "turret",
+	"research": "apollo",
+	"shootSound": "missile"
+}
