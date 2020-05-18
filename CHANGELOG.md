@@ -47,3 +47,7 @@ Lonely Island campaign map
 may 16
 <br>
 Promethean resprite, increased thorium crawler speed
+<br><br>
+may 18
+<br>
+new resources added and 3 new high tier turrets
