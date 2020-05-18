@@ -1,0 +1,31 @@
+{
+  type: GenericSmelter
+name: Crimson Compounder A
+description: Creates crimson compound from vulcanite and obsidian.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 40
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      obsidian/2,
+      vulcanite/1,
+    ]
+  }
+}
+requirements: [
+  obsidian/50
+  graphite/50
+  plastanium/50
+]
+category: crafting
+research: blast-mixer
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: crimson-compoundA/1
+}

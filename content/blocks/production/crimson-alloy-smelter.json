@@ -1,0 +1,36 @@
+{
+  type: GenericSmelter
+name: Crimson Alloy Smelter
+description: Creates crimson alloy from plastanium and crimson fluid.
+liquidCapacity: 50
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.5
+  items: {
+    items: [
+      plastanium/1,
+    ]
+    }
+    liquid: {
+      liquid: crimson-fluid
+      amount: 0.5
+    }
+  
+}
+requirements: [
+  crimson-compoundA/80
+  thorium/70
+  obsidian/70
+  graphite/50
+]
+category: crafting
+research: crimson-compounderA
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: crimson-alloy/1
+}
