@@ -1,0 +1,12 @@
+{
+heatCapacity: 0.5
+temperature: 1
+flammability: 1.2
+viscosity: 0.95
+explosiveness: 3
+effect: burning
+lightColor: c1cb89
+name: Nitroglycerin
+cost: 1.2
+color: c1ca89
+}

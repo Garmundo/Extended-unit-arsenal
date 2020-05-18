@@ -1,0 +1,12 @@
+{
+heatCapacity: 0.7
+temperature: 0.8
+flammability: 0
+viscocity: 0.8
+explosiveness: 0
+effect: melting
+lightColor: c12b29
+name: Crimson fluid
+cost: 1.2
+color: b12a29
+}
