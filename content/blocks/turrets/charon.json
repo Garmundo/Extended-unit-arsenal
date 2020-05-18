@@ -44,7 +44,7 @@
 		"drag": 0.01,
 		"lifetime": 70,
 		"collides": true,
-		"damage": 10,
+		"damage": 8,
 		"frontColor": "ff6666",
 		"backColor": "ff4444",
 		}
