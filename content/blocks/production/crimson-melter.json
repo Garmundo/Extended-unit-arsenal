@@ -13,14 +13,15 @@ consumes: {
   power: 1.5
   items: {
     items: [
-      vulcanite/2,
+      vulcanite/3,
     ]
   }
 }
 requirements: [
-  obsidian/50
+  crimson-compoundA/50
   graphite/50
   silicon/60
+  metaglass/60
 ]
 category: crafting
 research: melter

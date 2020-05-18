@@ -7,13 +7,13 @@ size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 60
+craftTime: 90
 updateEffect: smeltsmoke
 consumes: {
   power: 1.5
   items: {
     items: [
-      plastanium/1,
+      plastanium/2,
     ]
     }
     liquid: {
@@ -26,7 +26,7 @@ requirements: [
   crimson-compoundA/80
   thorium/70
   obsidian/70
-  graphite/50
+  plastanium/50
 ]
 category: crafting
 research: crimson-compounderA

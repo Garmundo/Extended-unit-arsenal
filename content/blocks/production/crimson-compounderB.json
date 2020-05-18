@@ -7,13 +7,13 @@ size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 60
+craftTime: 90
 updateEffect: smeltsmoke
 consumes: {
-  power: 1
+  power: 0.7
   items: {
     items: [
-      lead/2,
+      lead/3,
       thorium/2,
       vulcanite/2,
     ]
@@ -23,6 +23,7 @@ requirements: [
   obsidian/50
   graphite/50
   silicon/70
+  crimson-compoundA/40
 ]
 category: crafting
 research: crimson-compounderA

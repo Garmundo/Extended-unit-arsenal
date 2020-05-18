@@ -7,14 +7,14 @@ size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 40
+craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
   power: 1
   items: {
     items: [
       obsidian/2,
-      vulcanite/1,
+      vulcanite/3,
     ]
   }
 }
