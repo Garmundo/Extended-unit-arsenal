@@ -29,6 +29,6 @@ idleSound: respawning
 idleSoundVolume: 0.5
 outputLiquid:{
  liquid: crimson-fluid
- amount: 45
+ amount: 30
 } 
 }
