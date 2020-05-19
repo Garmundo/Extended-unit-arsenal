@@ -10,7 +10,7 @@ hasItems: true
 craftTime: 120
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.7
+  power: 4
   items: {
     items: [
       lead/3,
