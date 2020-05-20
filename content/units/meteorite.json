@@ -13,7 +13,7 @@
 	"engineOffset": 13,
 	"engineSize": 15,
 	"rotatespeed": 0.03,
-	"baseRotateSpeed": 0.07,
+	"baseRotateSpeed": 0.03,
 	"shootCone": 70,
 	"weapon": {
 		"name": "meteorite-nuke",
