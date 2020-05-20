@@ -3,7 +3,7 @@
 	"name": "Zeus",
 	"description": "Capital class zeus battleship. Equipped with electric shrapnel cannons.",
 	
-  "drag": 0.15,
+  "drag": 0.17,
 	"speed": 0.05,
 	"mass": 90,
 	"hitsize": 50,
@@ -12,8 +12,8 @@
 	"rotateWeapon": true,
 	"engineOffset": 13,
 	"engineSize": 15,
-	"rotatespeed": 0.03,
-	"baseRotateSpeed": 0.07,
+	"rotatespeed": 0.02,
+	"baseRotateSpeed": 0.02,
 	"shootCone": 100,
 	"weapon": {
 		"name": "zeus-coil",
