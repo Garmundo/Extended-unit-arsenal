@@ -11,8 +11,8 @@
 	"rotateWeapon": true,
 	"engineOffset": 11,
 	"engineSize": 4,
-	"rotatespeed": 0.1,
-	"baseRotateSpeed": 0.2,
+	"rotatespeed": 0.01,
+	"baseRotateSpeed": 0.02,
 	"shootCone": 360,
 	"weapon": {
 		"name": "nothing",
