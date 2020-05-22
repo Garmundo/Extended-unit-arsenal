@@ -14,8 +14,9 @@ resemble the vanilla art style
 
 5 new campaign maps.
 
--new area beyond Disconsolate passage-
+-New Areas beyond Disconsolate passage-
 
+1 new campaign map
 2 new ores
 3 new turrets
 5 new enemies
