@@ -51,3 +51,7 @@ Promethean resprite, increased thorium crawler speed
 may 18
 <br>
 new resources added and 3 new high tier turrets
+<br><br>
+may 22
+<br>
+Crimson valley map and 3 new enemies
