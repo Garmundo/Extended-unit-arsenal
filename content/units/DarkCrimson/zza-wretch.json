@@ -1,0 +1,39 @@
+{
+	"type": "groundUnit",
+	"name": "Wretch",
+	"description": "Infrastructure damage unit which shoots highly flamable and explosive liquids.",
+	"maxVelocity": 0.3,
+	"speed": 0.1,
+	"drag": 0.05,
+	"mass": 30,
+	"hitsize": 25.0,
+	"rotatespeed": 0.2,
+	"health": 1500,
+	"range": 150,
+	"immunities": ["burning", "melting"],
+	"weapon": {
+		"name": "wretch-launcher",
+		"range": 150
+		"length": 0.1,
+		"recoil": 5,
+		"shots": 2,
+		"shotDelay": 1,
+		"width": 10,
+		"reload": 6,
+		"spread": 0.3,
+		"inaccuracy": 1,
+		"alternate": true,
+		"bullet":{
+      "type": "LiquidBulletType",
+      "liquid" : "nitroglycerin",
+      "status": "melting",
+      "lifetime" : 60,
+      "statusDuration" : 1000,
+      "drag" : 0.02,
+      "speed" : 4,         
+             }
+          
+		
+	
+	}
+}

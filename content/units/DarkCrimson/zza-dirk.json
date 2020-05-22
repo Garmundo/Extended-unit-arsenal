@@ -1,0 +1,44 @@
+{
+	"type": "groundUnit",
+	"name": "Scimitar",
+	"description": "Basic darksteel land gunner.",
+	"maxVelocity": 0.7,
+	"speed": 0.3,
+	"drag": 0.05,
+	"mass": 5,
+	"hitsize": 10.0,
+	"rotatespeed": 0.2,
+	"health": 200,
+	"range": 150,
+	"immunities": ["melting"],
+	"weapon": {
+		"name": "dirk-gun",
+		"range": 150
+		"length": 0.1,
+		"recoil": 2,
+		"shots": 3,
+		"shotDelay": 2,
+		"width": 8,
+		"reload": 30,
+		"spread": 0.1,
+		"inaccuracy": 1,
+		"alternate": true,
+		"bullet":{
+      "type": "BasicBulletType",
+      "bulletWidth": 12,
+      "speed": 3,
+      "damage": 12,
+      "bulletHeight": 13,
+      "bulletShrink": 0.4,
+       "inaccuracy": 1,
+      "lifetime": 60,
+      "splashDamageRadius": 5,
+      "splashDamage": 1,
+     "backColor": "ff9999",
+     "frontColor": "ffaaaa",
+             }
+          
+		
+	
+	}
+}
