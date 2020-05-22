@@ -27,6 +27,7 @@
       "type": "LiquidBulletType",
       "liquid" : "nitroglycerin",
       "status": "melting",
+      "damage": 1,
       "lifetime" : 60,
       "statusDuration" : 1000,
       "drag" : 0.02,
