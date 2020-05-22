@@ -2,7 +2,7 @@
 	"type": "FlyingUnit",
 	"name": "Imp",
 	"description": "Darksteel missile interceptor.",
-   "drag": 0.05,
+   "drag": 0.1,
 	"speed": 0.3,
 	"mass": 10,
 	"hitsize": 15,
