@@ -1,0 +1,41 @@
+{
+	"name": "Crimson Valley",
+	"description": "A new area awaits. New ores and enemies are in sight. What technologies lie ahead?",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 100},
+    	{"item": "lead", "amount": 100},
+    	{"item": "silicon", "amount": 100},
+    ],
+	"launchCost": [	
+	{"item": "copper", "amount": 400},
+    	{"item": "lead", "amount": 400},
+    	{"item": "graphite", "amount": 100},
+        ],
+    "startingItems": [	       
+	{"item": "copper", "amount": 400},
+    	{"item": "lead", "amount": 400},
+    	{"item": "graphite", "amount": 100},
+    	
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Crimson_Valley",
+      "wave": 20,
+    },
+     "conditionWave": 20,
+    "launchPeriod": 15,
+    "requirements": [
+     	{
+    	  "type": "zoneWave",
+    	  "zone": "Disconsolate_Pas",
+    	  "wave": "10",
+        },
+            {
+          "type": "unlock",
+          "block": "crimson-compounderA",          
+        }
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium","obsidian", "vulcanite"]
+}
