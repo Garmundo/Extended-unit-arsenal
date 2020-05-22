@@ -10,14 +10,15 @@ resemble the vanilla art style
 
 3 new land units.
 4 new turrets
-8 new special enemies
 1 Super boss unit
 
 5 new campaign maps.
 
--new resources for higher tier weapons and units-
+-new area beyond Disconsolate passage-
 
+2 new ores
 3 new turrets
+5 new enemies
 
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
