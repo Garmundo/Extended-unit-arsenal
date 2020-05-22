@@ -25,10 +25,10 @@
 		"alternate": true,
 		"bullet":{
       "type": "BasicBulletType",
-      "bulletWidth": 12,
+      "bulletWidth": 8,
       "speed": 3,
       "damage": 12,
-      "bulletHeight": 13,
+      "bulletHeight": 10,
       "bulletShrink": 0.4,
        "inaccuracy": 1,
       "lifetime": 60,
