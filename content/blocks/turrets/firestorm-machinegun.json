@@ -15,6 +15,7 @@
 	"shootCone": 80,
 	"rotateSpeed": 50,
 	"range": 230,
+	"shootShake": 0.8,
 	"ammo": {
 		"metaglass":{
 		 "type": "BasicBulletType",
