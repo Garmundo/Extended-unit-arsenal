@@ -15,6 +15,7 @@
 	"weaponOffsetY": -5,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 30,
+	"shootShake": 3,
 	"rotateSpeed": 40,
 	"range": 120,
 	"ammo": {
