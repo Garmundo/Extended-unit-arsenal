@@ -17,6 +17,7 @@
 	"rotateSpeed": 50,
 	"range": 140,
 	"powerUse": 6,
+	"shootShake": 3.5,
 	"ammo": {
 		"obsidian":{
 		"collidesAir": false,
@@ -28,7 +29,7 @@
              "damage": 2,
              "speed": 0,
              "splashDamageRadius": 140,
-             "splashDamage": 5,
+             "splashDamage": 8,
              "despawnEffect": "commandSend", 
           },
             "crimson-alloy":{
