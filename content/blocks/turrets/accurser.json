@@ -11,6 +11,8 @@
 	"shots": 7,
 	"ammoPerShot": 6,
 	"spacing": 3,
+	"shootShake":3,
+	
 	"recoil": 3,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 60,
