@@ -14,6 +14,7 @@
 	"shootCone": 30,
 	"rotateSpeed": 50,
 	"range": 230,
+	"shootShake": 2,
 	"ammo": {
 		"graphite":{
 			"bulletWidth": 20,
