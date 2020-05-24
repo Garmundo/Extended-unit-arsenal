@@ -1,0 +1,46 @@
+{
+	"name": "Harrowing Heights",
+	"description": "Continue further into this alien landscape towards the mountains. Hostile capitals are on the way.",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 100},
+    	{"item": "lead", "amount": 100},
+    	{"item": "silicon", "amount": 100},
+    ],
+	"launchCost": [	
+	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 500},
+    	{"item": "silicon", "amount": 100},
+        ],
+    "startingItems": [	       
+	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 500},
+    	{"item": "silicon", "amount": 100},
+    	
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Harrowing_Height",
+      "wave": 15,
+    },
+    "conditionWave": 15,
+    "launchPeriod": 15,
+    "requirements": [
+     	{
+    	  "type": "zoneWave",
+    	  "zone": "Crimson_Valley",
+    	  "wave": "25",
+        },
+            {
+          "type": "unlock",
+          "block": "crimson-compounderB",          
+        },
+        
+        {
+        "type": "unlock",
+         "block": "crimson-melter"
+        }
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium", "scrap", "thorium", "obsidian", "vulcanite"]
+}
