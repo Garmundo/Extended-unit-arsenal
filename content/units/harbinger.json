@@ -1,0 +1,52 @@
+{
+	"type": "Revenant",
+	"name": "Harbinger",
+	"description": "Ruthless Heavy armored artillery gunship.",
+    "drag": 0.2,
+	"speed": 0.05,
+	"mass": 80,
+	"hitsize": 45,
+	"health": 16000,
+    "flying": true,
+	"rotateWeapon": true,
+	"engineOffset": 15,
+	"engineSize": 10,
+	"rotatespeed": 0.04,
+	"baseRotateSpeed": 0.04,
+	"shootCone": 240,
+	"weapon": {
+		"name": "ghost-minigun",
+		"length": 0.1,
+		"width": 24,
+	"reload": 5,
+    "shots": 2, 
+    "shootcone": 180,
+    "shotDelay": 1,
+		"alternate": true,
+    "velocityRnd": 0.5,
+    "spacing": 5,
+    "shootSound": "artillery",
+		"bullet": {
+		  "type": "ArtilleryBulletType",
+		  "keepVelocity": false,
+      "bulletWidth": 10,
+      "speed": 6,
+      "damage": 1,
+      "bulletHeight": 16,
+      "collides": true,
+      "collidesTiles": true,
+      "collidesAir": true,
+      "inaccuracy": 12,
+      "lifetime": 50,
+      "splashDamageRadius": 10,
+      "splashDamage": 1,
+     "frontColor": "faeb99",
+     "trailColor": "eeeeaa"
+     "hitEffect": "blastExplosion",
+     "backColor":"e9da66",
+     "fragBullets": 1,
+     "fragBullet": "glassFrag"
+}
+		  
+}
+}
