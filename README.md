@@ -16,10 +16,10 @@ resemble the vanilla art style
 
 -New Areas beyond Disconsolate passage-
 
-1 new campaign map
+2 new campaign map
 2 new ores
 3 new turrets
-5 new enemies
+7 new enemies
 
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
