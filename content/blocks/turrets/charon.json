@@ -32,7 +32,7 @@
 		"damage": 20,
 		"status": "burning",
 		"splashDamage": 0.2,
-		"splashDamageRadius": 8,
+		"splashDamageRadius": 12,
 		"frontColor": "ff6666",
 		"backColor": "ff4444",
 		},
