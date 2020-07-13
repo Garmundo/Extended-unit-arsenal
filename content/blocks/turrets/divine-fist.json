@@ -4,7 +4,7 @@
 	"description": "Dedicate stacks of surge to power an explosive punch. Empties ammo supply per shot.",
 	"targetAir": true,
 	"targetGround": true,
-
+"health": 4200,
 	"size": 6,
 	"inaccuracy": 0,
 	"reload": 300,
