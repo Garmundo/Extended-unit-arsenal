@@ -2,7 +2,7 @@
 	"type": "ItemTurret",
 	"name": "Area ignition",
 	"description": "Launches large napalm cluster bombs setting large areas on fire. Better prepare some waves.",
-	"targetAir": false,
+	"targetAir": true,
 	"targetGround": true,
 	"size": 5,
 	"inaccuracy": 2,
@@ -106,10 +106,10 @@
 		}
 	},
 	"requirements": [
-	 	{ "item": "copper", "amount": 250},
-		{ "item": "graphite", "amount": 250},
-		{ "item": "plastanium", "amount": 200},
-		{ "item": "surge-alloy", "amount": 50},
+	 	{ "item": "thorium", "amount": 250},
+		{ "item": "graphite", "amount": 275},
+		{ "item": "plastanium", "amount": 240},
+		{ "item": "surge-alloy", "amount": 150},
 	],
 	"category": "turret",
 	"research": "firestorm-machinegun",
