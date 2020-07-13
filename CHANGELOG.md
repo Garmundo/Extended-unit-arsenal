@@ -55,3 +55,7 @@ new resources added and 3 new high tier turrets
 may 22
 <br>
 Crimson valley map and 3 new enemies
+<br><br>
+July 13
+<br>
+Divine fist and area ignition.
