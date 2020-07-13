@@ -1,0 +1,47 @@
+{
+	"type": "ItemTurret",
+	"name": "Divine Fist",
+	"description": "Dedicate stacks of surge to power an explosive punch. Empties ammo supply per shot.",
+	"targetAir": true,
+	"targetGround": true,
+
+	"size": 6,
+	"inaccuracy": 0,
+	"reload": 300,
+	"shots": 1,
+	"spread": 0,
+	"recoil": 5,
+	"maxAmmo": 150,
+	"ammoPerShot": 150,
+	"ammoUseEffect": "shellEjectBig",
+	"shootCone": 60,
+	"rotateSpeed": 50,
+	"range": 80,
+	"ammo": {
+		"surge-alloy":{
+		"ammoMultiplier": 1,
+		"type": "BasicBulletType",
+		"speed": 1.5,
+		"instantDisappear": true,
+		"lifetime": 10,
+		"collides": true,
+		"damage": 1,
+		"splashDamageRadius": 96,
+		"splashDamage": 9000,
+		"lightining": 24,
+		"lightningLength": 120,
+		}
+		     
+	},
+	"requirements": [
+	 	{ "item": "surge-alloy", "amount": 350 },
+		{ "item": "graphite", "amount": 380},
+		{ "item": "titanium", "amount": 400},
+		{ "item": "plastanium", "amount": 375},
+				{ "item": "silicon", "amount": 375},
+		{ "item": "lead", "amount": 400},
+	],
+	"category": "turret",
+	"research": "apollo",
+	"shootSound": "bigshot"
+}
