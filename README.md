@@ -9,7 +9,7 @@ mindustry. All require the vanilla resources and have sprites which
 resemble the vanilla art style 
 
 3 new land units.
-4 new turrets
+6 new turrets
 1 Super boss unit
 
 5 new campaign maps.
