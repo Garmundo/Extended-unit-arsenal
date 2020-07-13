@@ -39,7 +39,7 @@
 		{ "item": "titanium", "amount": 400},
 		{ "item": "plastanium", "amount": 375},
 				{ "item": "silicon", "amount": 375},
-		{ "item": "lead", "amount": 400},
+		{ "item": "thorium", "amount": 400},
 	],
 	"category": "turret",
 	"research": "apollo",
