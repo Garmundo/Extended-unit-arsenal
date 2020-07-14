@@ -59,3 +59,7 @@ Crimson valley map and 3 new enemies
 July 13
 <br>
 Divine fist and area ignition.
+<br><br>
+July 14
+<br>
+Pandora and Hadean impact.
