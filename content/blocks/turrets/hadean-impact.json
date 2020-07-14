@@ -1,0 +1,72 @@
+{
+	"type": "ItemTurret",
+	"name": "Hadean Impact",
+	"description": "Compresses stacks of crimson alloy into a destructive bomb. Empties ammo supply per shot.",
+	"targetAir": true,
+	"targetGround":true,
+	"health": 5000,
+	"size": 7,
+	"inaccuracy": 0,
+	"reload": 300,
+	"shots": 1,
+	"maxAmmo": 100,
+	"ammoPerShot": 100,
+	"spacing": 0,
+	"recoil": 5,
+	"ammoUseEffect": "shellEjectBig",
+	"shootCone": 60,
+	"rotateSpeed": 30,
+	"range": 450,
+	"ammo": {
+		"crimson-alloy":{
+		"hitSound": "explosion",
+	    	"ammoMultiplier": 1,
+			"bulletWidth": 32,
+		     "bulletHeight": 48,
+             "type": "MissileBulletType",
+             "lifetime": 65,
+             "damage": 2500,
+             "speed": 10,
+             "splashDamageRadius": 112,
+             "splashDamage": 4800,
+             "status": "melting",
+             "statusDuration": "16000",
+           "backColor": "ff8976",
+     "frontColor": "fe8988",
+     "trailColor": "ff9999"
+     "fragVelocityMin": 1,
+     "fragVelocityMax": 1,
+     "fragBullets": 25,
+     
+     "fragBullet":{
+       "speed": 10,
+       "damage": 120,
+       "lifetime": 8,
+         "incendAmount": 100,
+      "incendSpread": 15,
+      "incendChance": 100,
+      "status": "melting",
+      "statusDuration": 16000,
+      "splashDamageRadius": 8,
+      "splashDamage": 100,
+     "fragBullets": 4,
+     "fragBullet": "eruptorShot",
+     }
+     
+     }
+     
+	},
+	
+	
+	
+	"requirements": [
+	 	{ "item": "crimson-alloy", "amount": 500},
+		{ "item": "crimson-compoundB", "amount": 520},
+		{ "item": "surge-alloy", "amount": 520},
+		{"item": "plastanium", "amount": 540},
+		{"item": "thorium", "amount": 560}
+	],
+	"category": "turret",
+	"research": "accurser",
+	"shootSound": "bigshot"
+}
