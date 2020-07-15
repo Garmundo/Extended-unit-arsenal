@@ -7,7 +7,7 @@
 	"size": 3,
 	"health": 1800,
 	"inaccuracy": 7,
-	"reload": 7,
+	"reload": 6,
 	"shots": 1,
 	"ammoPerShot": 1,
 	"maxAmmo": 30,
@@ -374,7 +374,7 @@
 		     "bulletHeight": 14,
              "type": "BasicBulletType",
              "lifetime": 50,
-             "damage": 44,
+             "damage": 46,
              "speed": 4,
              "velocityRnd": 0.5,
              "splashDamageRadius": 16,
@@ -383,7 +383,7 @@
      "frontColor": "eeeebb",
        "hitEffect": "explosion"
        "knockback": 1.4,
-       "reloadMultiplier": 0.6,
+       "reloadMultiplier": 0.9,
       }
       "surge-alloy":{
 			"bulletWidth": 13,
@@ -466,11 +466,11 @@
 	
 	
 	"requirements": [
-	 	{ "item": "copper", "amount": 160},
-		{ "item": "lead", "amount": 150},
-		{ "item": "silicon", "amount": 80},
+	 	{ "item": "copper", "amount": 200},
+		{ "item": "lead", "amount": 180},
+		{ "item": "silicon", "amount": 110},
 		{"item": "titanium", "amount": 100},
-		{"item": "graphite", "amount": 95}
+		{"item": "graphite", "amount": 100}
 	],
 	"category": "turret",
 	"research": "salvo",
