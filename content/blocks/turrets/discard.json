@@ -7,7 +7,7 @@
 	"size": 3,
 	"health": 1800,
 	"inaccuracy": 7,
-	"reload": 8,
+	"reload": 7,
 	"shots": 1,
 	"ammoPerShot": 1,
 	"maxAmmo": 30,
@@ -256,7 +256,7 @@
       "incendChance": 10,
              "velocityRnd": 0.5,
              "splashDamageRadius": 36,
-             "splashDamage": 14,
+             "splashDamage": 12,
            "backColor": "bbbb88",
      "frontColor": "bbbb88",
        "hitEffect": "explosion",
@@ -283,7 +283,7 @@
      "frontColor": "ffbb99",
        "hitEffect": "explosion"
        "knockback": 0.6,
-       "reloadMultiplier": 0.8,
+       "reloadMultiplier": 0.7,
       }
  	"blast-compound":{
 			"bulletWidth": 18,
@@ -305,7 +305,7 @@
      "frontColor": "dd9966",
        "hitEffect": "explosion"
        "knockback": 0.8,
-       "reloadMultiplier": 0.6,
+       "reloadMultiplier": 0.5,
       }
 	"plastanium":{
 			"bulletWidth": 14,
@@ -452,25 +452,25 @@
              "statusDuration": 300,
              "velocityRnd": 0.5,
              "splashDamageRadius": 32,
-             "splashDamage": 28,
+             "splashDamage": 30,
            "backColor": "df8888",
      "frontColor": "df8888",
        "hitEffect": "explosion"
        "fragBullets": 5,
        "fragBullet": "eruptorShot"
        "knockback": 0.6,
-       "reloadMultiplier": 0.5,
+       "reloadMultiplier": 0.4,
       }
 	},
 	
 	
 	
 	"requirements": [
-	 	{ "item": "copper", "amount": 180},
-		{ "item": "lead", "amount": 170},
+	 	{ "item": "copper", "amount": 160},
+		{ "item": "lead", "amount": 150},
 		{ "item": "silicon", "amount": 80},
 		{"item": "titanium", "amount": 100},
-		{"item": "graphite", "amount": 100}
+		{"item": "graphite", "amount": 95}
 	],
 	"category": "turret",
 	"research": "salvo",
