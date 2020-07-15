@@ -7,7 +7,7 @@
 	"size": 3,
 	"health": 1800,
 	"inaccuracy": 7,
-	"reload": 7.8,
+	"reload": 8,
 	"shots": 1,
 	"ammoPerShot": 1,
 	"maxAmmo": 30,
@@ -466,11 +466,11 @@
 	
 	
 	"requirements": [
-	 	{ "item": "copper", "amount": 160},
-		{ "item": "lead", "amount": 150},
+	 	{ "item": "copper", "amount": 180},
+		{ "item": "lead", "amount": 170},
 		{ "item": "silicon", "amount": 80},
 		{"item": "titanium", "amount": 100},
-		{"item": "graphite", "amount": 95}
+		{"item": "graphite", "amount": 100}
 	],
 	"category": "turret",
 	"research": "salvo",
