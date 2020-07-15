@@ -374,7 +374,7 @@
 		     "bulletHeight": 14,
              "type": "BasicBulletType",
              "lifetime": 50,
-             "damage": 46,
+             "damage": 48,
              "speed": 4,
              "velocityRnd": 0.5,
              "splashDamageRadius": 16,
@@ -383,7 +383,7 @@
      "frontColor": "eeeebb",
        "hitEffect": "explosion"
        "knockback": 1.4,
-       "reloadMultiplier": 0.9,
+       "reloadMultiplier": 0.7,
       }
       "surge-alloy":{
 			"bulletWidth": 13,
@@ -470,7 +470,7 @@
 		{ "item": "lead", "amount": 180},
 		{ "item": "silicon", "amount": 110},
 		{"item": "titanium", "amount": 100},
-		{"item": "graphite", "amount": 100}
+		{"item": "graphite", "amount": 120}
 	],
 	"category": "turret",
 	"research": "salvo",
