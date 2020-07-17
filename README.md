@@ -1,6 +1,6 @@
 # Extended-unit-arsenal
 
-(Status: Updating)
+(Status: Normal)
 
 9 new "cruiser-class" units (revenant variant)
 2 new "capitals" (along with lich and reaper factories)
@@ -12,7 +12,7 @@ resemble the vanilla art style
 6 new turrets
 1 Super boss unit
 
-5 new campaign maps.
+6 new campaign maps.
 
 -New Areas beyond Disconsolate passage-
 
