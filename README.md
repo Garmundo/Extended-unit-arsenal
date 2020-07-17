@@ -21,6 +21,8 @@ resemble the vanilla art style
 5 new turrets
 7 new enemies
 
+Hopefully this mod doesn't die in v6 lmao. RIP molten chasm fprtress facs
+
 (if you want to play around with the units in sandbox
 I recommend increasing unit production
 speed in custom settings or downloading infinitodustry and using the 
