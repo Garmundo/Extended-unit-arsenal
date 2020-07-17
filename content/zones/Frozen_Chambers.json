@@ -1,0 +1,46 @@
+{
+	"name": "Frozen Chambers",
+	"description": "We have tracked down the source of the promethean motherships which were detected back in Tempest Plateau: An enemy base. We were able to sneak in undetected. Slowly build up an army but be cautious of when you attack, the enemy will respond to damages to its walls and belts.",
+	"loadout": "basicNucleus",
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 200},
+    	{"item": "lead", "amount": 200},
+    	{"item": "titanium", "amount": 200},
+	{"item": "graphite", "amount": 200},
+    	{"item": "metaglass", "amount": 200},
+    	{"item": "silicon", "amount": 200}
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 500},
+    	{"item": "titanium", "amount": 100},
+	{"item": "graphite", "amount": 200},
+    	{"item": "silicon", "amount": 100}
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 500},
+    	{"item": "titanium", "amount": 100},
+    	{"item": "graphite", "amount": 200},
+    	{"item": "silicon", "amount": 100}
+    ],
+    "configureObjective":{
+      "type": "Launched",
+      "zone": "Frozen_Chambers"
+    }
+    "requirements": [
+    	{
+    		"type": "zoneWave",
+    		"zone": "Tempest_Plateau", 
+    		"wave": 30,
+    	},
+{
+"type": "Unlock",
+	"block": "discard",
+	
+}
+	
+	
+    ],
+    "resources": ["scrap", "copper", "lead", "coal", "sand", "titanium",  "thorium"]
+}
