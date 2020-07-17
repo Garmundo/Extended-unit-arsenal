@@ -1,0 +1,43 @@
+{
+	"name": "Forsaken Terraces",
+	"description": "Hell-----?***oo??!----c----***heaaaaaaaa---?-?--zzzzz...-----b.eee--,----ca-___--re----.......ful",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 200},
+    	{"item": "lead", "amount": 200},
+    	{"item": "silicon", "amount": 200},
+    ],
+	"launchCost": [	
+	{"item": "copper", "amount": 1200},
+    	{"item": "lead", "amount": 1200},
+    	{"item": "silicon", "amount": 250},
+    	{"item": "graphite", "amount": 250},
+    	{"item": "metaglass", "amount": 500},
+        ],
+    "startingItems": [	       
+	{"item": "copper", "amount": 1200},
+    	{"item": "lead", "amount": 1200},
+    	{"item": "silicon", "amount": 250},
+    	{"item": "graphite", "amount": 250},
+    	{"item": "metaglass", "amount": 500},     	
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Forsaken_Terrace",
+      "wave": 10,
+    },
+     "conditionWave": 5,
+    "launchPeriod": 5,
+    "requirements": [
+    	
+    		
+   
+    	{
+    	  "type": "zoneWave",
+    	  "zone": "Disconsolate_Pas",
+    	  "wave": "20",
+        },
+    ],
+    "resources": ["copper", "scrap", "lead", "coal", "sand", "titanium",  "thorium", "obsidian", "vulcanite"]
+}
