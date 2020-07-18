@@ -70,4 +70,4 @@ Maestro turret
 <br><br>
 July 17
 <br>
-Forsaken Terraces and Frozen Chambers map
+Forsaken Terraces and Frozen Chambers map and a bit of a nerf for the rapture
