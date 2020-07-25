@@ -1,0 +1,41 @@
+{
+	"name": "Crimfoire",
+	"description": "Burn.",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 100},
+    	{"item": "lead", "amount": 100},
+    	{"item": "graphite", "amount": 100},
+    ],
+	"launchCost": [	
+	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 500},
+    	{"item": "graphite", "amount": 500},
+        ],
+    "startingItems": [	       
+	{"item": "copper", "amount": 100},
+    	{"item": "lead", "amount": 100},
+    	{"item": "graphite", "amount": 100},
+    	
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Crimfoire",
+      "wave": 3,
+    },
+     "conditionWave": 2,
+    "launchPeriod": 1,
+    "requirements": [
+     	{
+    	  "type": "zoneWave",
+    	  "zone": "Forsaken_Terrace",
+    	  "wave": "10",
+        },
+            	{
+    		"type": "Launched",
+    		"zone": "Molten_Chasm", 
+    	},
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium","thorium"]
+}
