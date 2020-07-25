@@ -20,6 +20,7 @@ resemble the vanilla art style
 2 new ores
 5 new turrets
 7 new enemies
+1 boss battle map
 
 Hopefully this mod doesn't die in v6 lmao. RIP molten chasm fortress facs
 
