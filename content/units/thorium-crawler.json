@@ -3,7 +3,7 @@
 	"name": "Thorium Crawler",
 	"description": "Large crawlers with mounted thorium reactors. Explodes violently near foreign structures.",
 	"maxVelocity": 0.5,
-	"speed": 0.12,
+	"speed": 0.15,
 	"drag": 0.05,
 	"mass": 10,
 	"hitsize": 25,
@@ -17,7 +17,7 @@
 		"length": 13, 
 		"shootcone": 360,
 		"width": 0.1,
-		"reload": 10,
+		"reload": 5,
 		"alternate": true,
 		"shootSound": "shootBig",
 		"bullet":{
