@@ -1,4 +1,4 @@
-
+O
 
 apr. 10
 <br>
@@ -71,3 +71,7 @@ Maestro turret
 July 17
 <br>
 Forsaken Terraces and Frozen Chambers map and a bit of a nerf for the rapture
+<br><br>
+July 25
+<br>
+Fire Boss battle map
