@@ -2,7 +2,7 @@
 	"type": "groundUnit",
 	"name": "Aries",
 	"description": "Fast melee mech with high close range damage.",
-	"maxVelocity": 2,
+	"maxVelocity": 1.8,
 	"speed": 0.5,
 	"drag": 0.1,
 	"mass": 20,
