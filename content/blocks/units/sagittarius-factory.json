@@ -3,16 +3,16 @@
 	"name": "Sagittarius cruiser factory",
 	"description": "Constructs cruiser-class Sagittarius railgun battleships",
 	"unitType": "sagittarius",
-	"produceTime": 2000,
+	"produceTime": 2600,
 	"size": 4,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 4,
+		"power": 5,
 		"items": {
 		"items": [
-            {"item": "titanium", "amount": 60.0},
-            {"item": "silicon", "amount": 60.0},
-            {"item": "phase-fabric", "amount": 50.0}        
+            {"item": "titanium", "amount": 70.0},
+            {"item": "silicon", "amount": 80.0},
+            {"item": "phase-fabric", "amount": 60.0}        
       ]
 		}
   },
