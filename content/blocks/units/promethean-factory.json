@@ -4,7 +4,7 @@
 	"type": "UnitFactory",
 	"unitType": "promethean",
 	"size": 8,
-	"produceTime": 17000,
+	"produceTime": 18000,
 	"maxSpawn": 1,
 	"consumes": {
 		"power": 300,
