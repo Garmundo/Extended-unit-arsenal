@@ -75,3 +75,7 @@ Forsaken Terraces and Frozen Chambers map and a bit of a nerf for the rapture
 July 25
 <br>
 Fire Boss battle map
+<br><br>
+July 28
+<br>
+Infested Grounds and 4 new darksteel units
