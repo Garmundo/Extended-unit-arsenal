@@ -4,7 +4,7 @@
 	"description": "Mothership-class destroyer equipped with high energy fissure cannons which obliterates anything in a line. Exceptional at cutting bases in half and cutting production lines. Beware the pause between shots",
   "drag": 0.15,
 	"speed": 0.05,
-	"mass": 80,
+	"mass": 8,
 	"hitsize": 70,
 	"health": 24000,
   "flying": true,
