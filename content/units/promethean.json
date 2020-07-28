@@ -4,7 +4,7 @@
 	"description": "Mothership-class missile array destroyer. Equipped with fast reload high damage missile bays and extreme damage endurance, levelling bases with ease.",
   "drag": 0.15,
 	"speed": 0.05,
-	"mass": 80,
+	"mass": 5,
 	"hitsize": 70,
 	"health": 24000,
   "flying": true,
