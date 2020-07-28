@@ -5,7 +5,7 @@
 	"maxVelocity": 0.1,
 	"speed": 0.04,
 	"drag": 0.08,
-	"mass": 200,
+	"mass": 10,
 	"hitsize": 90.0,
 	"shootCone": 180,
 	"rotatespeed": 0.015,
