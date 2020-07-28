@@ -9,8 +9,8 @@ mindustry. All require the vanilla resources and have sprites which
 resemble the vanilla art style 
 
 Turrets: 7 vanilla-resource turrets and  5 using special ores
-8 new "dark" enemy units
-Plus 9 campaign maps and a boss battle map
+9 new "dark" enemy units
+Plus 10 campaign maps and a boss battle map
 
 
 Hopefully this mod doesn't die in v6 lmao. RIP molten chasm fortress facs
