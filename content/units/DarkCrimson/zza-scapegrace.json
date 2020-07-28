@@ -1,0 +1,43 @@
+{
+	"type": "groundUnit",
+	"name": "Scapegrace",
+	"description": "Fast melee units.",
+	"maxVelocity": 2,
+	"speed": 0.5,
+	"drag": 0.05,
+	"mass": 5,
+	"hitsize": 7.0,
+	"rotatespeed": 0.2,
+	"health": 150,
+	"immunities": ["melting"],
+	"weapon": {
+		"name": "nothing",
+		"length": 0.1,
+		"recoil": 2,
+		"shots": 5,
+		"shotDelay": 4,
+		"width": 0.2,
+		"reload": 30,
+		"spread": 0.1,
+		"inaccuracy": 4,
+		"alternate": true,
+		"bullet":{
+      "type": "BasicBulletType",
+      "bulletWidth": 12,
+      "instantDisappear": true,
+      "speed": 5,
+      "damage": 12,
+      "bulletHeight": 13,
+      "bulletShrink": 0.4,
+       "inaccuracy": 1,
+      "lifetime": 5,
+      "splashDamageRadius": 16,
+      "splashDamage": 8,
+     "backColor": "ff9999",
+     "frontColor": "ffaaaa",
+             }
+          
+		
+	
+	}
+}

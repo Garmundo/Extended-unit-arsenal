@@ -1,0 +1,64 @@
+{
+	"type": "groundUnit",
+	"name": "Forlorned",
+	"description": "Destructive artilerry units armed with hard hitting bomb payloads which are launched over walls.",
+	"maxVelocity": 0.4,
+	"speed": 0.2,
+	"drag": 0.05,
+	"mass": 10,
+	"hitsize": 15.0,
+	"rotatespeed": 0.1,
+	"health": 1000,
+	"immunities": ["melting"],
+	"weapon": {
+		"name": "zza-forlorned-mortar",
+		"length": 5,
+		"recoil": 4,
+		"shots": 2,
+		"shotDelay": 2,
+		"width": 4,
+		"reload": 90,
+		"spread": 0.1,
+		"inaccuracy": 2,
+		"alternate": true,
+		"bullet":{
+      "type": "ArtilleryBulletType",
+      "bulletWidth": 25,
+      "speed": 3,
+      "collides": false,
+      "damage": 2,
+      "bulletHeight": 25,
+      "bulletShrink": 0.6,
+       "inaccuracy": 1,
+      "lifetime": 40,
+      "splashDamageRadius": 5,
+      "splashDamage": 5,
+     "backColor": "ff9999",
+     "frontColor": "ffaaaa",
+     "fragBullets": 4,
+     "fragBullet":{
+     "type": "MissileBulletType",
+        "bulletWidth": 8,
+      "speed": 2,
+      "damage": 4,
+      "bulletHeight": 8,
+      "bulletShrink": 0.6,
+      "drag": -0.002,
+      "homingRange": 80,
+      "keepVelocity": false,
+      "splashDamageRadius": 24,
+      "splashDamage": 2,
+      "lifetime": 20,
+      "trailColor": "ff8888",
+      "backColor": "ffbbbb",
+      "frontColor": "ffaaaa",
+      "weaveScale": 10,
+      "weaveMag": 1
+       
+     }
+             }
+          
+		
+	
+	}
+}
