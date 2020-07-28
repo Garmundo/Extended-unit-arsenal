@@ -1,0 +1,41 @@
+{
+	"name": "Infested",
+	"description": "More obsidian and vulcanite ores are in sight, the landscape here is divided by towering walls of rock. Be careful, foreign ships are coming, and they're in great numbers..",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 100},
+    	{"item": "lead", "amount": 100},
+    	{"item": "silicon", "amount": 100},
+    ],
+	"launchCost": [	
+	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 600},
+    	{"item": "silicon", "amount": 150},
+        ],
+    "startingItems": [	       
+	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 600},
+    	{"item": "silicon", "amount": 150},
+    	
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Infested_Grounds",
+      "wave": 10,
+    },
+    "conditionWave": 10,
+    "launchPeriod": 10,
+    "requirements": [
+     	{
+    	  "type": "zoneWave",
+    	  "zone": "Crimson_Valley",
+    	  "wave": "30",
+        },
+        {
+        "type": "unlock",
+         "block": "crimson-alloy-smelter"
+        }
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium", "thorium", "obsidian", "vulcanite"]
+}
