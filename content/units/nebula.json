@@ -22,7 +22,7 @@
 		"width": 7,
 		"range": 200,
 		"reload": 140,
-    "shots": 9, 
+    "shots": 8, 
     "shootcone": 250,
     "shotDelay": 2.5,
 		"alternate": true,
