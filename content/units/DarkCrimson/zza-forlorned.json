@@ -25,7 +25,7 @@
       "type": "ArtilleryBulletType",
       "bulletWidth": 25,
       "speed": 3,
-      "collides": false,
+      "collidesTiles": false,
       "damage": 2,
       "bulletHeight": 25,
       "bulletShrink": 0.6,
