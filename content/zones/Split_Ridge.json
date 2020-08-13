@@ -29,7 +29,7 @@
     	{
     	  "type": "zoneWave",
     	  "zone": "Tempest_Plateau",
-    	  "wave": "1",
+    	  "wave": "18",
         },
     ],
     "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium"]
