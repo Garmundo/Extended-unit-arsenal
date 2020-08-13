@@ -3,7 +3,7 @@
 	"name": "Behemoth Summoner",
 	"description": "Everything eventually comes to an end.",
 	"unitType": "Behemoth",
-	"produceTime": 1000,
+	"produceTime": 26000,
 	"size": 8,
 	"maxSpawn": 1,
 	"consumes": {
