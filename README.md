@@ -10,7 +10,7 @@ resemble the vanilla art style
 
 Turrets: 7 vanilla-resource turrets and  5 using special ores
 9 new "dark" enemy units
-Plus 10 campaign maps and a boss battle map
+Plus 11 campaign maps and a boss battle map
 
 
 Hopefully this mod doesn't die in v6 lmao. RIP molten chasm fortress facs
