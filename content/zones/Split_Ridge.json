@@ -1,0 +1,36 @@
+{
+	"name": "Split Ridge",
+	"description": "A tall ice wall cuts through the middle of this passage. Two spawnpoints are present. Be attentive to both sides.",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 200},
+    	{"item": "lead", "amount": 200},
+    	{"item": "graphite", "amount": 200},
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 700},
+    	{"item": "lead", "amount": 700},
+    	{"item": "graphite", "amount": 200},
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 700},
+    	{"item": "lead", "amount": 700},
+    	{"item": "graphite", "amount": 200},
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Split_Ridge",
+      "wave": 25,
+    },
+     "conditionWave": 25,
+    "launchPeriod": 10,
+    "requirements": [
+    	{
+    	  "type": "zoneWave",
+    	  "zone": "Tempest_Plateau",
+    	  "wave": "1",
+        },
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium"]
+}
