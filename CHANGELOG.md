@@ -79,3 +79,7 @@ Fire Boss battle map
 July 28
 <br>
 Infested Grounds and 4 new darksteel units
+<br><br>
+August 13
+<br>
+Split ridge, Avalanche, Sabertooth and Tectonic
