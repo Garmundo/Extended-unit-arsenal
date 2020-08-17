@@ -4,7 +4,7 @@
 	"description": "Rapid fire incendiary turret.",
 	"targetAir": true,
 	"targetGround": true,
-	"health": 2400,
+	"health": 1400,
 	"size": 3,
 	"inaccuracy": 2,
 	"reload": 1.2,
