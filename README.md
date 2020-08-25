@@ -1,6 +1,6 @@
 # Extended-unit-arsenal
 
-(Status: updating)
+(Status: normal)
 
 9 new "cruiser-class" units (revenant variant)
 2 new "capitals" (along with lich and reaper factories)
