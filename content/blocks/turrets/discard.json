@@ -7,7 +7,7 @@
 	"size": 3,
 	"health": 1200,
 	"inaccuracy": 7,
-	"reload": 7,
+	"reload": 7.5,
 	"shots": 1,
 	"ammoPerShot": 1,
 	"maxAmmo": 30,
