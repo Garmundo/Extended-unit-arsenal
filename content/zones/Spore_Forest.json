@@ -27,9 +27,8 @@
     "launchPeriod": 20,
     "requirements": [
     	{
-    	  "type": "ZoneWave",
-    	  "zone": "Tempest_Plateau",
-    	  "wave": "1",
+    	  "type": "Launched",
+    	  "zone": "overgrowth"
         },
     ],
     "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "scrap", "obsidian"]
