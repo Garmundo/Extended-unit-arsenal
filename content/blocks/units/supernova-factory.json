@@ -3,7 +3,7 @@
 	"name": "Supernova factory",
 	"description": "sandbox-only, supernova factory",
 	"unitType": "supernova",
-	"produceTime": 4800,
+	"produceTime": 6000,
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
