@@ -3,7 +3,7 @@
 	"name": "Sagittarius cruiser factory",
 	"description": "Constructs cruiser-class Sagittarius railgun battleships",
 	"unitType": "sagittarius",
-	"produceTime": 2600,
+	"produceTime": 3100,
 	"size": 4,
 	"maxSpawn": 1,
 	"consumes": {
