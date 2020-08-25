@@ -10,7 +10,7 @@
         "health": 3600,
 	"shots": 1,
 	"maxAmmo": 50,
-	"ammoPerShot": 16,
+	"ammoPerShot": 24,
 	"spread": 0,
 	"recoil": 4,
 	"ammoUseEffect": "shellEjectBig",
