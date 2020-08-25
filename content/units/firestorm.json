@@ -5,7 +5,7 @@
     "drag": 0.1,
 	"speed": 0.1,
 	"mass": 40,
-	"hitsize": 30,
+	"hitsize": 20,
 	"health": 1000,
   "flying": true,
 	"rotateWeapon": true,
