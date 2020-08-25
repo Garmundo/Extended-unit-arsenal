@@ -6,7 +6,7 @@
 	"speed": 0.3,
 	"drag": 0.01,
 	"mass": 2,
-	"hitsize": 35.0,
+	"hitsize": 18.0,
 	"rotatespeed": 0.07,
 	"baseRotateSpeed": 0.07,
 	"health": 1200,
