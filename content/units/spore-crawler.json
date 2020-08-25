@@ -1,0 +1,52 @@
+{
+	"type": "groundUnit",
+	"name": "Spore crawler",
+	"description": "Fast bomb units packed with destructive spores.",
+	"maxVelocity": 1.2,
+	"speed": 0.3,
+	"drag": 0.4,
+	"mass": 10,
+	"hitsize": 8,
+	"shootCone": 360,
+	"rotatespeed": 0.2,
+	"health": 140,
+	"range": 30,
+	"weapon": {
+		"name": "nothing",
+		"length": 1, 
+		"shootcone": 360,
+		"range": 30,
+		"width": 0.1,
+		"reload": 5,
+		"alternate": true,
+		"shootSound": "explosion",
+		"bullet":{
+             "lifetime": 16,
+             "instantDisappear": true,
+             "killShooter": true,
+             "speed": 1.5,
+             "splashDamageRadius": 62,
+             "splashDamage": 16,
+             "hitEffect": "explosion",
+             
+             "fragBullets": 9,
+             "fragBullet":{
+             "bulletWidth": 4,
+             "bulletHeight": 4,
+             "type": "BasicBulletType",
+             "lifetime": 2400,
+             "drag": 0.04,
+             "damage": 8,
+             "speed": 2,
+             "velocityRnd": 0.5,
+             "splashDamageRadius": 8,
+             "splashDamage": 6,
+             "backColor": "ebaaeb",
+             "frontColor": "ebaaeb",
+             "hitEffect": "explosion",
+           
+             }
+                
+		}
+	}
+}

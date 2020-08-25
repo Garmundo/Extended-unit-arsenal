@@ -1,0 +1,70 @@
+{
+	"type": "groundUnit",
+	"name": "Scorpio",
+	"description": "Armoured long ranged ground artillery unit eqquiped with armor corroding spore rockets.",
+	"maxVelocity": 0.4,
+	"speed": 0.1,
+	"drag": 0.05,
+	"mass": 5,
+	"hitsize": 25,
+	"rotatespeed": 0.1,
+	"baseRotateSpeed": 0.005,
+	"health": 1240 
+	"weapon": {
+		"name": "scorpio-stinger",
+		"length": 0,
+		"recoil": 5,
+		"width": 0.1,
+		"shots": 1,
+		"reload": 100,
+		"alternate": false,
+		"spacing": 0,
+		"inaccuracy": 0,
+		"shootSound": "shootBig",
+		"bullet":{
+		     "bulletWidth": 18,
+		     "bulletHeight": 22,
+             "type": "BasicBulletType",
+             "lifetime": 50,
+             "colides": true,
+             "collidesAir": true,
+             "collidesTiles": true
+             "damage": 16,
+             "speed": 8,
+             "trailColor": "ebaaeb",
+             "frontColor": "ebaaeb",
+             "backColor":"ebaaeb",
+             "shootEffect": "shellEjectBig",
+             "splashDamageRadius": 24,
+            "splashDamage": 15,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion",
+         "status": {
+         "name": poisoned,
+         "damage": 0.1,
+         "effect": "bubble",
+         "color": "ebaaeb",
+         "armorMultiplier": 0.6,
+		}
+		"statusDuration": 600,
+	"fragBullets": 4,
+	"fragBullet":{
+	"bulletWidth": 6,
+	
+	"bulletHeight": 7,
+	"type": "BasicBulletType",
+	"lifetime": 2400,
+	"drag": 0.04,
+	"damage": 12,
+	"speed": 2,
+	"velocityRnd": 0.5,
+	"splashDamageRadius": 8,
+	"splashDamage": 14,
+	"backColor": "ebaaeb",
+	"frontColor": "ebaaeb",
+	"hitEffect": "explosion",
+	}
+	
+	}
+	}
+}

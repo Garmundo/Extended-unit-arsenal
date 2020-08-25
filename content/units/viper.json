@@ -1,0 +1,48 @@
+{
+	"type": "groundUnit",
+	"name": "Spore worm",
+	"description": "Fast moving land units which spray lingering spores which makes areas unusable for a set period.",
+	"maxVelocity": 1.2,
+	"speed": 0.2,
+	"drag": 0.4,
+	"mass": 10,
+	"hitsize": 18,
+	"shootCone": 360,
+	"rotatespeed": 0.2,
+	"health": 240,
+	"range": 20,
+	"weapon": {
+		"name": "nothing",
+		"length": 1, 
+		"shootcone": 360,
+		"range": 30,
+		"width": 0.1,
+		"inaccuracy": 360,
+		"reload": 18,
+		"alternate": true,
+		"shootSound": "explosion",
+		"bullet":{
+		"instantDisappear": true,
+		"lifetime": 60,
+		"speed": 2,
+		"collides": false,
+		     "fragBullets": 1,
+		     "fragBullet":{
+             "hitEffect": "explosion",
+             "bulletWidth": 5,
+             "bulletHeight": 5,
+             "type": "BasicBulletType",
+             "lifetime": 2400,
+             "drag": 0.05,
+             "damage": 8,
+             "speed": 3,
+             "velocityRnd": 0.35,
+             "splashDamageRadius": 8,
+             "splashDamage": 8,
+             "backColor": "ebaaeb",
+             "frontColor": "ebaaeb",
+             "hitEffect": "explosion", 
+             }         
+		}
+	}
+}
