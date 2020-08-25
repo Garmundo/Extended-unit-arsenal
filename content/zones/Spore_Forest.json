@@ -1,0 +1,36 @@
+{
+	"name": "Spore Forest",
+	"description": "The spores grow denser. units with spore weaponry are detected. Do what you must.",
+	"loadout": "basicNucleus",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 10},
+    	{"item": "lead", "amount": 10},
+    	{"item": "metaglass", "amount": 10},
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 400},
+    	{"item": "lead", "amount": 300},
+    	{"item": "graphite", "amount": 80},
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 400},
+    	{"item": "lead", "amount": 300},
+    	{"item": "graphite", "amount": 80},
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "Spore_Forest",
+      "wave": 32,
+    },
+     "conditionWave": 20,
+    "launchPeriod": 20,
+    "requirements": [
+    	{
+    	  "type": "ZoneWave",
+    	  "zone": "Tempest_Plateau",
+    	  "wave": "1",
+        },
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "scrap", "obsidian"]
+}
