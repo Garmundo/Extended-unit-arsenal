@@ -41,7 +41,7 @@
        "drag": 0.002,
   
        "inaccuracy": 0,
-      "lifetime": 30,
+      "lifetime": 45,
       "splashDamageRadius": 16,
       "splashDamage": 30,
       "despawnEffect": "bigShockwave",
