@@ -2,7 +2,7 @@
 	"type": "groundUnit",
 	"name": "Tremor",
 	"description": "Highly durable land unit which launches lingering explosive shells.",
-	"maxVelocity": 0.3,
+	"maxVelocity": 0.38,
 	"speed": 0.25,
 	"drag": 0.05,
 	"mass": 5,
