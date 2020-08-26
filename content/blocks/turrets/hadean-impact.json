@@ -30,7 +30,7 @@
              "splashDamageRadius": 112,
              "splashDamage": 4800,
              "status": "melting",
-             "statusDuration": "16000",
+             "statusDuration": "3000",
            "backColor": "ff8976",
      "frontColor": "fe8988",
      "trailColor": "ff9999"
@@ -46,7 +46,7 @@
       "incendSpread": 15,
       "incendChance": 100,
       "status": "melting",
-      "statusDuration": 16000,
+      "statusDuration": 600,
       "splashDamageRadius": 8,
       "splashDamage": 100,
      "fragBullets": 4,
