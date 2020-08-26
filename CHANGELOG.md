@@ -83,3 +83,7 @@ Infested Grounds and 4 new darksteel units
 August 13
 <br>
 Split ridge, Avalanche, Sabertooth and Tectonic
+<br><br>
+August 26
+<br>
+Spore forest. Spore crawler, worm, Squid, Scorpio, Kraken and assimilation drone
