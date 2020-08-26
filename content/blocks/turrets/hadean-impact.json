@@ -28,7 +28,7 @@
              "damage": 2500,
              "speed": 10,
              "splashDamageRadius": 112,
-             "splashDamage": 4800,
+             "splashDamage": 4000,
              "status": "melting",
              "statusDuration": "3000",
            "backColor": "ff8976",
