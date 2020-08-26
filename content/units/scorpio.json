@@ -2,7 +2,7 @@
 	"type": "groundUnit",
 	"name": "Scorpio",
 	"description": "Armoured long ranged ground artillery unit eqquiped with armor corroding spore rockets.",
-	"maxVelocity": 0.4,
+	"maxVelocity": 0.48,
 	"speed": 0.1,
 	"drag": 0.05,
 	"mass": 5,
