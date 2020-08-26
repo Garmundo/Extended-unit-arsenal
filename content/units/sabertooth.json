@@ -2,7 +2,7 @@
 	"type": "groundUnit",
 	"name": "Sabertooth",
 	"description": "Large but agile shotgun unit.",
-	"maxVelocity": 0.5,
+	"maxVelocity": 0.6,
 	"speed": 0.3,
 	"drag": 0.01,
 	"mass": 2,
