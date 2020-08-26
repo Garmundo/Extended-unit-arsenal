@@ -2,7 +2,7 @@
 	"type": "groundUnit",
 	"name": "Tectonic",
 	"description": "Larger version of the tremor. More aggresive explosions, Heavier plastinium armor",
-	"maxVelocity": 0.2,
+	"maxVelocity": 0.35,
 	"speed": 0.15,
 	"drag": 0.05,
 	"mass": 5,
