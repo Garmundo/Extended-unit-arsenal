@@ -33,8 +33,8 @@
              "velocityRnd": 0.5,
              "splashDamageRadius": 28,
              "splashDamage": 16,
-           "backColor": "aaaddd",
-     "frontColor": "aaaadd",
+           "backColor": "ccffcc",
+     "frontColor": "aaddaa",
       }
 	"thorium":{
 			"bulletWidth": 16,
