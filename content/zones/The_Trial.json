@@ -1,0 +1,82 @@
+{
+	"name": "The Trial",
+	"description": "A gate opens the path towards the end. The first section has opened, have you what it takes?",
+	"loadout": "basicFoundation",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 100},
+    	{"item": "lead", "amount": 100},
+    	{"item": "graphite", "amount": 100},
+    ],
+	"launchCost": [	
+	{"item": "copper", "amount": 1500},
+    	{"item": "lead", "amount": 1500},
+    	{"item": "silicon", "amount": 500},
+    	{"item": "graphite", "amount": 800},
+    	{"item": "titanium", "amount": 500},
+    	{"item": "metaglass", "amount": 800},
+        ],
+    "startingItems": [	       
+		{"item": "copper", "amount": 1500},
+		{"item": "lead", "amount": 1500},
+		{"item": "silicon", "amount": 500},
+		{"item": "graphite", "amount": 800},
+		{"item": "titanium", "amount": 500},
+		{"item": "metaglass", "amount": 800},
+    ],
+    "configureObjective": {
+    "type": "zoneWave",
+      "zone": "The_Trial",
+      "wave": 10,
+    },
+     "conditionWave": 5,
+    "launchPeriod": 5,
+    "requirements": [
+    	{
+    	  "type": "zoneWave",
+    	  "zone": "Lonely_Islands",
+    	  "wave": "35",
+        },
+        {
+        "type": "zoneWave",
+        "zone": "Disconsolate_Pas",
+        "wave": "25",
+        },
+        {
+        "type": "zoneWave",
+        "zone": "Equinox_Coast",
+        "wave": "35",
+        },
+        {
+        "type": "zoneWave",
+        "zone": "Spore_Forest",
+        "wave": "35",
+        },
+        {
+        "type": "zoneWave",
+        "zone": "Tempest_Plateau",
+        "wave": "35",
+        },
+        {
+        "type": "Launched",
+        "zone": "Molten_Chasm",
+        },
+        {"type": "unlock",
+        "block": "shock-mine",	
+        },
+        {"type": "unlock",
+        "block": "lancer",	
+        },
+        {"type": "unlock",
+        "block": "shock-mine",	
+        }
+        {"type": "unlock",
+        "block": "laser-drill",	
+        }
+        {"type": "unlock",
+        "block": "thermal-generator",	
+        }
+        
+    ],
+    "resources": ["copper", "scrap", "lead", "coal", "sand", "titanium",  "thorium", "obsidian", "vulcanite"]
+}
