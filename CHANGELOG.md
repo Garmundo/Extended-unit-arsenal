@@ -87,3 +87,7 @@ Split ridge, Avalanche, Sabertooth and Tectonic
 August 26
 <br>
 Spore forest. Spore crawler, worm, Squid, Scorpio, Kraken and assimilation drone
+<br><br>
+August 28
+<br>
+The trial map and hallucination unit.
