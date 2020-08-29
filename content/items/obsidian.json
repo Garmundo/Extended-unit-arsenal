@@ -1,7 +1,7 @@
 {
 type: material
-name: Obsidian
+name: DarkOre
 hardness: 4
 cost: 1.2
-color: 666688
+color: 222222
 }
