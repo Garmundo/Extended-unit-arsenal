@@ -88,6 +88,6 @@ August 26
 <br>
 Spore forest. Spore crawler, worm, Squid, Scorpio, Kraken and assimilation drone
 <br><br>
-August 28
+August 29
 <br>
-The trial map and hallucination unit.
+The trial map and hallucination unit. Renamed obsidian to Darkore
