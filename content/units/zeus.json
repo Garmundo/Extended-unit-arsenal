@@ -19,7 +19,7 @@
 		"name": "zeus-coil",
 		"length": 4,
 		"width": 20,
-		"reload": 300,
+		"reload": 260,
     "shots": 6,
     "shootcone": 120,
     "shotDelay": 6,
