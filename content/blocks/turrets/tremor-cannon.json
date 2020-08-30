@@ -8,7 +8,7 @@
 	"size": 3,
 	"inaccuracy": 0.5,
 	"reload": 90,
-	"ammoPerShot": 14,
+	"ammoPerShot": 8,
 	"shots": 1,
 	"recoil": 5,
 	"ammoUseEffect": "shellEjectBig",
