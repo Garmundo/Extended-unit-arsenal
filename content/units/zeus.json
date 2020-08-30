@@ -20,7 +20,7 @@
 		"length": 4,
 		"width": 20,
 		"reload": 300,
-    "shots": 8,
+    "shots": 6,
     "shootcone": 120,
     "shotDelay": 6,
 		"alternate": true,
@@ -42,11 +42,11 @@
       "lifetime": 40,
       "trailColor": "4466dd",
       "backColor": "44b3e0",
-      "frontColor": "448ff3",
+      "frontColor": "44afff",
       "shootEffect": "lancerLaserShoot",
       "hitEffect": "shockwave",
       "despawnEffect": "shockwave",
-      "fragBullets": 8,
+      "fragBullets": 7,
       "fragBullet": "lightning"
       }
 	}
