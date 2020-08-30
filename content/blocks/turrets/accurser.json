@@ -9,7 +9,7 @@
 	"inaccuracy": 0.1,
 	"reload": 120,
 	"shots": 7,
-	"ammoPerShot": 6,
+	"ammoPerShot": 12,
 	"spacing": 3,
 	"shootShake":3,
 	
