@@ -1,0 +1,8 @@
+{
+type: material
+name: Special Core
+hardness: 8
+radioactivity: 5
+cost: 2
+color: cddc99
+}

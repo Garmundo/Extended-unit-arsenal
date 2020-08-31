@@ -1,0 +1,9 @@
+{
+type: material
+name: Awakened Core
+hardness: 12
+explosiveness: 0.8
+radioactivity: 16
+cost: 2.5
+color: ffffaa
+}
