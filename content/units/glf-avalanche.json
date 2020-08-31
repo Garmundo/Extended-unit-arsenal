@@ -20,7 +20,7 @@
 		"name": "nothing",
 		"length": 1,
 		"width": 22,
-		"reload": 100,
+		"reload": 85,
     "shots": 1,
     "shootcone": 360,
     "shotDelay": 0,
