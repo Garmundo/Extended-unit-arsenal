@@ -23,7 +23,7 @@
 		"range": 200,
     "shots": 20,
     "knockback": 3,
-    "inaccuracy": 240,
+    "inaccuracy": 180,
     "recoil": 0.5,
     "shootcone": 360,
     "shotDelay": 5,
