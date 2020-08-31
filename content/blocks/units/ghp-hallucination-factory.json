@@ -7,13 +7,13 @@
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 105,
+		"power": 85,
 		"items": {
 		"items": [
 		{"item": "titanium", "amount": 280.0},
 		{"item": "silicon", "amount": 300},
 		{"item": "phase-fabric", "amount": 280.0}
-		{"item": "yc-awakened_casing", "amount": 15}
+		{"item": "yc-awakened_casing", "amount": 7}
 		]
 		}
   },
