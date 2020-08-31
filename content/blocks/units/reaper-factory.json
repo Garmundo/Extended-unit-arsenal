@@ -11,9 +11,9 @@
 		"items": {
 		"items": [
          
-            {"item": "silicon", "amount": 300.0},                
-            {"item": "titanium", "amount": 275.0},
-            {"item": "plastanium", "amount": 275.0},
+            {"item": "silicon", "amount": 320.0},                
+            {"item": "titanium", "amount": 325.0},
+            {"item": "plastanium", "amount": 325.0},
        
           ]
 		}
