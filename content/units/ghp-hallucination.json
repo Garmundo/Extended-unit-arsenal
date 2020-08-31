@@ -7,7 +7,7 @@
 	"maxVelocity": 100,
 	"mass": 2,
 	"hitsize": 10,
-	"health": 3600,
+	"health": 4200,
   "flying": true,
 	"rotateWeapon": true,
 	"engineOffset": 12,
