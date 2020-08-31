@@ -13,7 +13,7 @@
 		{"item": "titanium", "amount": 250.0},
 		{"item": "silicon", "amount": 280.0},
 		{"item": "plastanium", "amount": 280.0}
-		{"item": "y-special_casing", "amount": 30}
+		{"item": "y-special_casing", "amount": 20}
 		]}
 		"liquid":{
 		"liquid": "cryofluid",
