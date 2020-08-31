@@ -1,0 +1,36 @@
+{
+  type: GenericSmelter
+name: Darksteel Press
+description: Uses high pressure water to turn darkOre into darksteel.
+liquidCapacity: 50
+health: 180
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 50
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      obsidian/2,
+    ]
+    },
+    liquid:{
+      liquid: water
+      amount: 0.2    
+    },
+  
+ 
+}
+requirements: [
+  obsidian/50
+  silicon/50
+]
+category: crafting
+research: crimson-compounderA
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: darksteel/1
+}

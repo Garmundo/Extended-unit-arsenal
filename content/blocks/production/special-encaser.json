@@ -1,0 +1,42 @@
+{
+  type: GenericSmelter
+name: Special Core Factory
+description: Constructs special cores used to build heavy cruisers and special capitals.
+liquidCapacity: 50
+size: 3
+health: 750
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 300
+updateEffect: smeltsmoke
+consumes: {
+  power: 3
+  items: {
+    items: [
+      plastanium/4,
+      thorium/4,
+      metaglass/6,
+      silicon/5,
+    ]
+    }
+    liquid: {
+      liquid: cryofluid
+      amount: 0.1
+    }
+  
+}
+requirements: [
+  copper/200
+  plastanium/80
+  thorium/80
+  silicon/100
+  metaglass/50
+  graphite/75
+]
+category: crafting
+research: alloy-smelter
+idleSound: respawning
+idleSoundVolume: 0.3
+outputItem: y-special_casing/1
+}

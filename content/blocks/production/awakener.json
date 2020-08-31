@@ -1,0 +1,42 @@
+{
+  type: GenericSmelter
+name: Awakener
+description: Provides special cores with an influx of energy and binds it with complex resources to form awakened cores used for powerful units and motherships.
+liquidCapacity: 50
+size: 3
+health: 1000
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 600
+updateEffect: smeltsmoke
+consumes: {
+  power: 18
+  items: {
+    items: [
+      y-special_casing/1,
+      phase-fabric/5,
+      surge-alloy/5,
+    ]
+    }
+    liquid: {
+      liquid: cryofluid
+      amount: 0.2
+    }
+  
+}
+requirements: [
+  copper/280
+  lead/240
+  surge-alloy/80
+  thorium/100
+  silicon/150
+  phase-fabric/80
+  plastanium/75
+]
+category: crafting
+research: special-encaser
+idleSound: respawning
+idleSoundVolume: 0.3
+outputItem: yc-awakened_casing/1
+}
