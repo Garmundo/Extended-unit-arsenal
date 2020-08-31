@@ -14,7 +14,7 @@
             {"item": "silicon", "amount": 850.0},
             {"item": "plastanium", "amount": 800.0},
             {"item": "surge-alloy", "amount": 750.0 },
-            {"item": "yc-awakened_casing", "amount": 30}
+            {"item": "yc-awakened_casing", "amount": 40}
       ]
 		}
   },
