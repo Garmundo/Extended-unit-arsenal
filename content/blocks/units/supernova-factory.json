@@ -1,23 +1,29 @@
 {
 	"type": "unitFactory",
 	"name": "Supernova factory",
-	"description": "sandbox-only, supernova factory",
+	"description": "Construct destructive supernova capital battleships.",
 	"unitType": "supernova",
-	"produceTime": 6000,
+	"produceTime": 10000,
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 60,
+		"power": 210,
 		"items": {
 		"items": [
-            {"item": "silicon", "amount": 10.0},        
-            ]
-        
+		{"item": "titanium", "amount": 400.0},
+		{"item": "silicon", "amount": 380.0},
+		{"item": "plastanium", "amount": 360.0}
+		{"item": "yc-awakened_casing", "amount": 20}
+		]
 		}
   },
 	"requirements": [
-		{"item": "silicon", "amount" : 10},
+		{"item": "titanium", "amount": 480}
+		{ "item": "plastanium", "amount": 460 },
+		{"item": "silicon", "amount" : 500}
+		{ "item": "thorium", "amount": 480 },
+		{ "item": "surge-alloy", "amount": 450}
 	],
 	"category": "units",
-	"buildVisibility": "sandboxOnly",
+	"research": "meteorite-factory"
 }
