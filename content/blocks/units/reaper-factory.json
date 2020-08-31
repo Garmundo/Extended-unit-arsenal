@@ -3,7 +3,7 @@
 	"name": "Reaper capital factory",
 	"description": "Constructs capital-class Reaper battleships.",
 	"unitType": "reaper",
-	"produceTime": 8000,
+	"produceTime": 8400,
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
