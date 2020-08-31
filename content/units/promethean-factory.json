@@ -1,0 +1,31 @@
+{
+	"name": "Promethean mothership Factory",
+	"description": "Constructs mothership-class promethean battleships. Equipped with a rapid fire missile array and top level armor plating. Requires copious amounts of energy and resources to produce.",
+	"type": "UnitFactory",
+	"unitType": "promethean",
+	"size": 8,
+	"produceTime": 18000,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 300,
+		"items": {
+		"items": [
+            {"item": "thorium", "amount": 750.0},
+            {"item": "silicon", "amount": 800.0},
+            {"item": "plastanium", "amount": 750.0},
+            {"item": "surge-alloy", "amount": 700.0 }
+               {"item": "yc-awakened_casing", "amount": 38}
+      ]
+		}
+  },
+	 "category": "units",
+	"requirements": [
+		{ "item": "titanium", "amount": 1200}
+	{ "item": "plastanium", "amount": 1000 },
+		{"item": "silicon", "amount" : 1400},
+		{ "item": "thorium", "amount": 1000},
+		{ "item": "surge-alloy", "amount": 800}
+	
+	]
+	"research": "lich-factory"
+}

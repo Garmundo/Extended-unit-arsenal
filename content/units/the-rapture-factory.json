@@ -1,0 +1,31 @@
+{
+	"name": "The-rapture mothership Factory",
+	"description": "Constructs mothership-class rapture battleships.Equipped with slow, high energy fissure cannons which pulverize structures along a line. Requires copious ammounts of resources and energy to build",
+	"type": "UnitFactory",
+	"unitType": "the-rapture",
+	"size": 8,
+	"produceTime": 19600,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 390,
+		"items": {
+		"items": [
+            {"item": "thorium", "amount": 800.0},
+            {"item": "silicon", "amount": 850.0},
+            {"item": "plastanium", "amount": 800.0},
+            {"item": "surge-alloy", "amount": 750.0 },
+            {"item": "yc-awakened_casing", "amount": 30}
+      ]
+		}
+  },
+	"category": "units",
+	"requirements": [
+		{ "item": "titanium", "amount": 1300}
+	{ "item": "plastanium", "amount": 1150 },
+		{"item": "silicon", "amount" : 1500},
+		{ "item": "thorium", "amount": 1100},
+		{ "item": "surge-alloy", "amount": 950}
+	
+	]
+	"research": "reaper-factory"
+}

@@ -1,0 +1,29 @@
+{
+	"type": "unitFactory",
+	"name": "Hallucination Capital factory",
+	"description": "Construct Cutting edge phase-tech halluncination capitals.",
+	"unitType": "ghp-hallucination",
+	"produceTime": 10600,
+	"size": 7,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 105,
+		"items": {
+		"items": [
+		{"item": "titanium", "amount": 280.0},
+		{"item": "silicon", "amount": 300},
+		{"item": "phase-fabric", "amount": 280.0}
+		{"item": "yc-awakened_casing", "amount": 15}
+		]
+		}
+  },
+	"requirements": [
+		{"item": "titanium", "amount": 400}
+		{ "item": "plastanium", "amount": 360},
+		{"item": "silicon", "amount" : 420}
+		{ "item": "thorium", "amount": 400 },
+		{ "item": "surge-alloy", "amount": 350}
+	],
+	"category": "units",
+	"research": "ghost-factory"
+}

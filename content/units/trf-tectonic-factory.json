@@ -1,0 +1,31 @@
+{
+	"name": "Tectonic Factory",
+	"description": "Constructs giant ground-shaking tectonic destroyers",
+	"type": "UnitFactory",
+	"unitType": "trf-tectonic",
+	"size": 8,
+	"produceTime": 14200,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 205,
+		"items": {
+		"items": [
+            {"item": "thorium", "amount": 480.0},
+            {"item": "silicon", "amount": 500.0},
+            {"item": "plastanium", "amount": 460.0},
+            {"item": "surge-alloy", "amount": 420.0 }
+               {"item": "yc-awakened_casing", "amount": 25}
+      ]
+		}
+  },
+	 "category": "units",
+	"requirements": [
+		{ "item": "titanium", "amount": 800}
+	{ "item": "plastanium", "amount": 720 },
+		{"item": "silicon", "amount" : 850},
+		{ "item": "thorium", "amount": 750},
+		{ "item": "surge-alloy", "amount": 700}
+	
+	]
+	"research": "tremor-factory"
+}
