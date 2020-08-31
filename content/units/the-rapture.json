@@ -30,8 +30,8 @@
 		"bullet": {
 		"type": "BasicBulletType",
       "bulletWidth": 24,
-      "speed": 15,
-      "damage": 600,
+      "speed": 13,
+      "damage": 800,
       "bulletHeight": 40,
       "bulletShrink": 0,
       "lifetime": 200,
