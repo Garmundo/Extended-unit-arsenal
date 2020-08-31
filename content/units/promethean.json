@@ -38,7 +38,7 @@
       "keepVelocity": false,
       "splashDamageRadius": 40,
       "splashDamage": 20,
-      "lifetime": 80,
+      "lifetime": 70,
       "trailColor": "ff6600",
       "backColor": "ff9340",
       "frontColor": "fc6f03",
