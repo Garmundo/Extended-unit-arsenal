@@ -3,15 +3,15 @@
 	"name": "Wretch Mech factory",
 	"description": "Constructs wretch mechs",
 	"unitType": "zza-wretch",
-	"produceTime": 2100,
+	"produceTime": 2000,
 	"size": 4,
-	"health": 450,
+	"health": 800,
 	"maxSpawn": 3,
 	"consumes": {
-		"power": 2.8,
+		"power": 3.2,
 		"items": {
 		"items": [
-            {"item": "darksteel", "amount": 50.0},
+            {"item": "darksteel", "amount": 46.0},
             {"item": "crimson-compoundA", "amount": 30.0},        
       ]
 		}
