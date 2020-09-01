@@ -3,8 +3,8 @@
 	"name": "Forlorned factory",
 	"description": "Constructs Forlorned Artillery Mechs",
 	"unitType": "zza-forlorned",
-	"produceTime": 2000,
-	"health": 420
+	"produceTime": 1800,
+	"health": 800
 	"size": 4,
 	"maxSpawn": 3,
 	"consumes": {
