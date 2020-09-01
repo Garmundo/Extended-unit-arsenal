@@ -1,0 +1,27 @@
+{
+	"type": "unitFactory",
+	"name": "Forlorned factory",
+	"description": "Constructs Forlorned Artillery Mechs",
+	"unitType": "zza-forlorned",
+	"produceTime": 2000,
+	"health": 420
+	"size": 4,
+	"maxSpawn": 3,
+	"consumes": {
+		"power": 3,
+		"items": {
+		"items": [
+            {"item": "darksteel", "amount": 36.0},
+            {"item": "crimson-compoundA", "amount": 27.0},       
+      ]
+		}
+  },
+	"requirements": [
+	    {"item": "darksteel", "amount": 160},
+		{"item": "silicon", "amount": 180},
+		{ "item": "graphite", "amount": 175},
+		{"item": "crimson-compoundA", "amount" : 150},
+	],
+	"category": "units",
+	"research": "zza-scimitar-factory"
+}

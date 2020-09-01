@@ -1,0 +1,25 @@
+{
+	"type": "unitFactory",
+	"name": "Scapegrace factory",
+	"description": "Constructs fast scapegrace darksteel units.",
+	"unitType": "zza-scapegrace",
+	"health": 200
+	"produceTime": 780,
+	"size": 2,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 1,
+		"items": {
+		"items": [
+            {"item": "darksteel", "amount": 9.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "darksteel", "amount": 50}
+		{"item": "silicon", "amount" : 60}
+		{ "item": "crimson-compoundA", "amount": 40},
+	],
+	"category": "units",
+	"research": "dagger-factory"
+}

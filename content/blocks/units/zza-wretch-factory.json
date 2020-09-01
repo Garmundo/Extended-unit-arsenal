@@ -1,0 +1,27 @@
+{
+	"type": "unitFactory",
+	"name": "Wretch Mech factory",
+	"description": "Constructs wretch mechs",
+	"unitType": "zza-wretch",
+	"produceTime": 2100,
+	"size": 4,
+	"health": 450,
+	"maxSpawn": 3,
+	"consumes": {
+		"power": 2.8,
+		"items": {
+		"items": [
+            {"item": "darksteel", "amount": 50.0},
+            {"item": "crimson-compoundA", "amount": 30.0},        
+      ]
+		}
+  },
+	"requirements": [
+	    {"item": "darksteel", "amount": 200},
+		{"item": "graphite", "amount": 200},
+		{ "item": "silicon", "amount": 180},
+		{"item": "crimson-compoundA", "amount" : 180},
+	],
+	"category": "units",
+	"research": "zza-scimitar-factory"
+}

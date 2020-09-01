@@ -1,0 +1,24 @@
+{
+	"type": "unitFactory",
+	"name": "Scimitar factory",
+	"description": "Constructs scimitar mechs.",
+	"unitType": "zza-dirk",
+	"produceTime": 1000,
+	"health": 200
+	"size": 2,
+	"maxSpawn": 3,
+	"consumes": {
+		"power": 1.5,
+		"items": {
+		"items": [
+            {"item": "darksteel", "amount": 16.0},
+		]}
+  },
+	"requirements": [
+		{"item": "darksteel", "amount": 75}
+		{"item": "silicon", "amount" : 80}
+		{ "item": "crimson-compoundA", "amount": 80},
+	],
+	"category": "units",
+	"research": "zza-scapegrace-factory",
+}
