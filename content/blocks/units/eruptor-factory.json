@@ -3,7 +3,7 @@
 	"name": "Eruptor factory",
 	"description": "Constructs eruptors.",
 	"unitType": "eruptor",
-	"produceTime": 500,
+	"produceTime": 1700,
 	"size": 3,
 	"maxSpawn": 4,
 	"consumes": {
