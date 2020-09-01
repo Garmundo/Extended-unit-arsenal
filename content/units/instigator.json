@@ -18,7 +18,7 @@
 		"name": "ghost-minigun",
 		"length": 0.1,
 		"width": 16,
-	"reload": 90,
+	"reload": 70,
     "shots": 3, 
     "shootcone": 180,
     "shotDelay": 2.5,
