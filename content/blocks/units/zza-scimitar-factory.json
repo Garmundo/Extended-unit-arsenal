@@ -3,12 +3,12 @@
 	"name": "Scimitar factory",
 	"description": "Constructs scimitar mechs.",
 	"unitType": "zza-dirk",
-	"produceTime": 1000,
+	"produceTime": 1200,
 	"health": 200
 	"size": 2,
 	"maxSpawn": 3,
 	"consumes": {
-		"power": 1.5,
+		"power": 1.8,
 		"items": {
 		"items": [
             {"item": "darksteel", "amount": 16.0},
