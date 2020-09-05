@@ -15,7 +15,7 @@
 	"recoil": 4,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 120,
-	"rotateSpeed": 50,
+	"rotatespeed": 5,
 	"range": 240,
 	"ammo": {
 	"pyratite":{
