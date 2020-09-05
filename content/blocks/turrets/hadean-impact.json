@@ -15,7 +15,7 @@
 	"recoil": 5,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 60,
-	"rotateSpeed": 30,
+	"rotatespeed": 5,
 	"range": 450,
 	"ammo": {
 		"crimson-alloy":{
