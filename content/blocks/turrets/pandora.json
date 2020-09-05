@@ -4,7 +4,7 @@
 	"description": "Empty the storage, make it rain.",
 	"targetAir": true,
 	"targetGround": true,
-
+	"health": 4200,
 	"size": 6,
 	"inaccuracy": 10,
 	"reload": 360,
@@ -17,7 +17,7 @@
 	"recoil": 5,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 70,
-	"rotateSpeed": 30,
+	"rotatespeed": 8,
 	"range": 240,
 	"ammo": {
 	"plastanium":{
