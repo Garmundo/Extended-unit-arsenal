@@ -20,8 +20,8 @@
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 240,
 	"rotatespeed": 2,
-	"health": 6200,
-	"range": 280,
+	"health": 5200,
+	"range": 300,
 	"shootSound": "missile",
 	"ammo": {
 	    
