@@ -7,7 +7,7 @@
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 145,
+		"power": 165,
 		"items": {
 		"items": [
             {"item": "graphite", "amount": 500.0},
