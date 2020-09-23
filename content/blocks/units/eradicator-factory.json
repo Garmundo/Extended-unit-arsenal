@@ -3,16 +3,16 @@
 	"name": "Eradicator factory",
 	"description": "Constructs eradicators.",
 	"unitType": "eradicator",
-	"produceTime": 9200,
+	"produceTime": 10200,
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 125,
+		"power": 145,
 		"items": {
 		"items": [
-            {"item": "graphite", "amount": 450.0},
-            {"item": "silicon", "amount": 400.0},
-            {"item": "surge-alloy", "amount": 420.0},
+            {"item": "graphite", "amount": 500.0},
+            {"item": "silicon", "amount": 550.0},
+            {"item": "surge-alloy", "amount": 480.0},
       ]
 		}
   },
