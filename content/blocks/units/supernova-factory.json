@@ -3,16 +3,16 @@
 	"name": "Supernova factory",
 	"description": "Construct destructive supernova capital battleships.",
 	"unitType": "supernova",
-	"produceTime": 10000,
+	"produceTime": 11000,
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
 		"power": 210,
 		"items": {
 		"items": [
-		{"item": "titanium", "amount": 400.0},
-		{"item": "silicon", "amount": 380.0},
-		{"item": "plastanium", "amount": 360.0}
+		{"item": "titanium", "amount": 480.0},
+		{"item": "silicon", "amount": 460.0},
+		{"item": "plastanium", "amount": 420.0}
 		{"item": "yc-awakened_casing", "amount": 20}
 		]
 		}
