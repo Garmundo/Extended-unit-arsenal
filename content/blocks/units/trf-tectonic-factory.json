@@ -4,10 +4,10 @@
 	"type": "UnitFactory",
 	"unitType": "trf-tectonic",
 	"size": 8,
-	"produceTime": 14200,
+	"produceTime": 12200,
 	"maxSpawn": 1,
 	"consumes": {
-		"power": 235,
+		"power": 205,
 		"items": {
 		"items": [
             {"item": "thorium", "amount": 480.0},
